@@ -38,7 +38,7 @@ h1, h2, h3 {
 
 .navbar-brand{
   font-family:'Taviraj', serif;
-  font-weight:700;
+  font-weight:800;
 }
 
 .navbar-default .navbar-brand, 
@@ -49,6 +49,18 @@ h1, h2, h3 {
     opacity:0.75
   }
 }
+
+.navbar-default .navbar-toggle .icon-bar{
+  background-color:white;
+}
+
+.navbar-default .navbar-toggle{
+  border-color:2px solid white;
+  &:hover, &:focus{
+    background-color: #0B486B;
+  }
+}
+
 
 // Homepage Styles
 .home-callout{
