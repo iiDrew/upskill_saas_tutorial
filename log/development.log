@@ -1,0 +1,3037 @@
+Started GET "/" for 24.224.141.35 at 2017-05-06 13:11:23 +0000
+Cannot render console from 24.224.141.35! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by Rails::WelcomeController#index as HTML
+  Parameters: {"internal"=>true}
+  Rendering /usr/local/rvm/gems/ruby-2.3.0@saasapp/gems/railties-5.0.2/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /usr/local/rvm/gems/ruby-2.3.0@saasapp/gems/railties-5.0.2/lib/rails/templates/rails/welcome/index.html.erb (4.0ms)
+Completed 200 OK in 25ms (Views: 9.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 24.224.141.35 at 2017-05-06 13:11:42 +0000
+Cannot render console from 24.224.141.35! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by Rails::WelcomeController#index as HTML
+  Parameters: {"internal"=>true}
+  Rendering /usr/local/rvm/gems/ruby-2.3.0@saasapp/gems/railties-5.0.2/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /usr/local/rvm/gems/ruby-2.3.0@saasapp/gems/railties-5.0.2/lib/rails/templates/rails/welcome/index.html.erb (2.9ms)
+Completed 200 OK in 6ms (Views: 4.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 24.224.141.35 at 2017-05-06 13:12:10 +0000
+Cannot render console from 24.224.141.35! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by Rails::WelcomeController#index as HTML
+  Parameters: {"internal"=>true}
+  Rendering /usr/local/rvm/gems/ruby-2.3.0@saasapp/gems/railties-5.0.2/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /usr/local/rvm/gems/ruby-2.3.0@saasapp/gems/railties-5.0.2/lib/rails/templates/rails/welcome/index.html.erb (3.8ms)
+Completed 200 OK in 8ms (Views: 5.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 24.224.141.35 at 2017-05-06 13:17:48 +0000
+Cannot render console from 24.224.141.35! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by Rails::WelcomeController#index as HTML
+  Parameters: {"internal"=>true}
+  Rendering /usr/local/rvm/gems/ruby-2.3.0@saasapp/gems/railties-5.0.2/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /usr/local/rvm/gems/ruby-2.3.0@saasapp/gems/railties-5.0.2/lib/rails/templates/rails/welcome/index.html.erb (3.7ms)
+Completed 200 OK in 19ms (Views: 9.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 24.224.141.35 at 2017-05-06 13:18:00 +0000
+Cannot render console from 24.224.141.35! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by Rails::WelcomeController#index as HTML
+  Parameters: {"internal"=>true}
+  Rendering /usr/local/rvm/gems/ruby-2.3.0@saasapp/gems/railties-5.0.2/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /usr/local/rvm/gems/ruby-2.3.0@saasapp/gems/railties-5.0.2/lib/rails/templates/rails/welcome/index.html.erb (2.6ms)
+Completed 200 OK in 5ms (Views: 3.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 24.224.141.35 at 2017-05-06 13:52:33 +0000
+Cannot render console from 24.224.141.35! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by Rails::WelcomeController#index as HTML
+  Parameters: {"internal"=>true}
+  Rendering /usr/local/rvm/gems/ruby-2.3.0@saasapp/gems/railties-5.0.0/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /usr/local/rvm/gems/ruby-2.3.0@saasapp/gems/railties-5.0.0/lib/rails/templates/rails/welcome/index.html.erb (4.8ms)
+Completed 200 OK in 24ms (Views: 11.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 24.224.141.35 at 2017-05-06 13:52:38 +0000
+Cannot render console from 24.224.141.35! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by Rails::WelcomeController#index as HTML
+  Parameters: {"internal"=>true}
+  Rendering /usr/local/rvm/gems/ruby-2.3.0@saasapp/gems/railties-5.0.0/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /usr/local/rvm/gems/ruby-2.3.0@saasapp/gems/railties-5.0.0/lib/rails/templates/rails/welcome/index.html.erb (2.7ms)
+Completed 200 OK in 6ms (Views: 4.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 24.224.141.35 at 2017-05-06 13:58:59 +0000
+Cannot render console from 24.224.141.35! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by Rails::WelcomeController#index as HTML
+  Parameters: {"internal"=>true}
+  Rendering /usr/local/rvm/gems/ruby-2.3.0@saasapp/gems/railties-5.0.0/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /usr/local/rvm/gems/ruby-2.3.0@saasapp/gems/railties-5.0.0/lib/rails/templates/rails/welcome/index.html.erb (3.2ms)
+Completed 200 OK in 7ms (Views: 5.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 24.224.141.35 at 2017-05-06 13:59:42 +0000
+Cannot render console from 24.224.141.35! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+  
+LoadError (Unable to autoload constant PagesController, expected /home/ubuntu/workspace/saasapp/app/controllers/pages_controller.rb to define it):
+  
+activesupport (5.0.0) lib/active_support/dependencies.rb:512:in `load_missing_constant'
+activesupport (5.0.0) lib/active_support/dependencies.rb:203:in `const_missing'
+activesupport (5.0.0) lib/active_support/inflector/methods.rb:268:in `const_get'
+activesupport (5.0.0) lib/active_support/inflector/methods.rb:268:in `block in constantize'
+activesupport (5.0.0) lib/active_support/inflector/methods.rb:266:in `each'
+activesupport (5.0.0) lib/active_support/inflector/methods.rb:266:in `inject'
+activesupport (5.0.0) lib/active_support/inflector/methods.rb:266:in `constantize'
+activesupport (5.0.0) lib/active_support/dependencies.rb:583:in `get'
+activesupport (5.0.0) lib/active_support/dependencies.rb:614:in `constantize'
+actionpack (5.0.0) lib/action_dispatch/http/request.rb:93:in `controller_class'
+actionpack (5.0.0) lib/action_dispatch/routing/route_set.rb:44:in `controller'
+actionpack (5.0.0) lib/action_dispatch/routing/route_set.rb:30:in `serve'
+actionpack (5.0.0) lib/action_dispatch/journey/router.rb:39:in `block in serve'
+actionpack (5.0.0) lib/action_dispatch/journey/router.rb:26:in `each'
+actionpack (5.0.0) lib/action_dispatch/journey/router.rb:26:in `serve'
+actionpack (5.0.0) lib/action_dispatch/routing/route_set.rb:725:in `call'
+rack (2.0.1) lib/rack/etag.rb:25:in `call'
+rack (2.0.1) lib/rack/conditional_get.rb:25:in `call'
+rack (2.0.1) lib/rack/head.rb:12:in `call'
+rack (2.0.1) lib/rack/session/abstract/id.rb:222:in `context'
+rack (2.0.1) lib/rack/session/abstract/id.rb:216:in `call'
+actionpack (5.0.0) lib/action_dispatch/middleware/cookies.rb:613:in `call'
+activerecord (5.0.0) lib/active_record/migration.rb:552:in `call'
+actionpack (5.0.0) lib/action_dispatch/middleware/callbacks.rb:38:in `block in call'
+activesupport (5.0.0) lib/active_support/callbacks.rb:97:in `__run_callbacks__'
+activesupport (5.0.0) lib/active_support/callbacks.rb:750:in `_run_call_callbacks'
+activesupport (5.0.0) lib/active_support/callbacks.rb:90:in `run_callbacks'
+actionpack (5.0.0) lib/action_dispatch/middleware/callbacks.rb:36:in `call'
+actionpack (5.0.0) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.0.0) lib/action_dispatch/middleware/remote_ip.rb:79:in `call'
+actionpack (5.0.0) lib/action_dispatch/middleware/debug_exceptions.rb:49:in `call'
+web-console (3.5.0) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.5.0) lib/web_console/middleware.rb:20:in `block in call'
+web-console (3.5.0) lib/web_console/middleware.rb:18:in `catch'
+web-console (3.5.0) lib/web_console/middleware.rb:18:in `call'
+actionpack (5.0.0) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.0.0) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.0.0) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.0.0) lib/active_support/tagged_logging.rb:70:in `block in tagged'
+activesupport (5.0.0) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.0.0) lib/active_support/tagged_logging.rb:70:in `tagged'
+railties (5.0.0) lib/rails/rack/logger.rb:24:in `call'
+sprockets-rails (3.2.0) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.0.0) lib/action_dispatch/middleware/request_id.rb:24:in `call'
+rack (2.0.1) lib/rack/method_override.rb:22:in `call'
+rack (2.0.1) lib/rack/runtime.rb:22:in `call'
+activesupport (5.0.0) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+actionpack (5.0.0) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.0.0) lib/action_dispatch/middleware/static.rb:136:in `call'
+rack (2.0.1) lib/rack/sendfile.rb:111:in `call'
+railties (5.0.0) lib/rails/engine.rb:522:in `call'
+puma (3.4.0) lib/puma/configuration.rb:224:in `call'
+puma (3.4.0) lib/puma/server.rb:569:in `handle_request'
+puma (3.4.0) lib/puma/server.rb:406:in `process_client'
+puma (3.4.0) lib/puma/server.rb:271:in `block in run'
+puma (3.4.0) lib/puma/thread_pool.rb:114:in `block in spawn_thread'
+  Rendering /usr/local/rvm/gems/ruby-2.3.0@saasapp/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/diagnostics.html.erb within rescues/layout
+  Rendering /usr/local/rvm/gems/ruby-2.3.0@saasapp/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/_source.html.erb
+  Rendered /usr/local/rvm/gems/ruby-2.3.0@saasapp/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/_source.html.erb (5.7ms)
+  Rendering /usr/local/rvm/gems/ruby-2.3.0@saasapp/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb
+  Rendered /usr/local/rvm/gems/ruby-2.3.0@saasapp/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (2.0ms)
+  Rendering /usr/local/rvm/gems/ruby-2.3.0@saasapp/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb
+  Rendered /usr/local/rvm/gems/ruby-2.3.0@saasapp/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.6ms)
+  Rendered /usr/local/rvm/gems/ruby-2.3.0@saasapp/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/diagnostics.html.erb within rescues/layout (54.1ms)
+Started GET "/" for 24.224.141.35 at 2017-05-06 13:59:59 +0000
+Cannot render console from 24.224.141.35! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+  
+LoadError (Unable to autoload constant PagesController, expected /home/ubuntu/workspace/saasapp/app/controllers/pages_controller.rb to define it):
+  
+activesupport (5.0.0) lib/active_support/dependencies.rb:512:in `load_missing_constant'
+activesupport (5.0.0) lib/active_support/dependencies.rb:203:in `const_missing'
+activesupport (5.0.0) lib/active_support/inflector/methods.rb:268:in `const_get'
+activesupport (5.0.0) lib/active_support/inflector/methods.rb:268:in `block in constantize'
+activesupport (5.0.0) lib/active_support/inflector/methods.rb:266:in `each'
+activesupport (5.0.0) lib/active_support/inflector/methods.rb:266:in `inject'
+activesupport (5.0.0) lib/active_support/inflector/methods.rb:266:in `constantize'
+activesupport (5.0.0) lib/active_support/dependencies.rb:583:in `get'
+activesupport (5.0.0) lib/active_support/dependencies.rb:614:in `constantize'
+actionpack (5.0.0) lib/action_dispatch/http/request.rb:93:in `controller_class'
+actionpack (5.0.0) lib/action_dispatch/routing/route_set.rb:44:in `controller'
+actionpack (5.0.0) lib/action_dispatch/routing/route_set.rb:30:in `serve'
+actionpack (5.0.0) lib/action_dispatch/journey/router.rb:39:in `block in serve'
+actionpack (5.0.0) lib/action_dispatch/journey/router.rb:26:in `each'
+actionpack (5.0.0) lib/action_dispatch/journey/router.rb:26:in `serve'
+actionpack (5.0.0) lib/action_dispatch/routing/route_set.rb:725:in `call'
+rack (2.0.1) lib/rack/etag.rb:25:in `call'
+rack (2.0.1) lib/rack/conditional_get.rb:25:in `call'
+rack (2.0.1) lib/rack/head.rb:12:in `call'
+rack (2.0.1) lib/rack/session/abstract/id.rb:222:in `context'
+rack (2.0.1) lib/rack/session/abstract/id.rb:216:in `call'
+actionpack (5.0.0) lib/action_dispatch/middleware/cookies.rb:613:in `call'
+activerecord (5.0.0) lib/active_record/migration.rb:552:in `call'
+actionpack (5.0.0) lib/action_dispatch/middleware/callbacks.rb:38:in `block in call'
+activesupport (5.0.0) lib/active_support/callbacks.rb:97:in `__run_callbacks__'
+activesupport (5.0.0) lib/active_support/callbacks.rb:750:in `_run_call_callbacks'
+activesupport (5.0.0) lib/active_support/callbacks.rb:90:in `run_callbacks'
+actionpack (5.0.0) lib/action_dispatch/middleware/callbacks.rb:36:in `call'
+actionpack (5.0.0) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.0.0) lib/action_dispatch/middleware/remote_ip.rb:79:in `call'
+actionpack (5.0.0) lib/action_dispatch/middleware/debug_exceptions.rb:49:in `call'
+web-console (3.5.0) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.5.0) lib/web_console/middleware.rb:20:in `block in call'
+web-console (3.5.0) lib/web_console/middleware.rb:18:in `catch'
+web-console (3.5.0) lib/web_console/middleware.rb:18:in `call'
+actionpack (5.0.0) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.0.0) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.0.0) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.0.0) lib/active_support/tagged_logging.rb:70:in `block in tagged'
+activesupport (5.0.0) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.0.0) lib/active_support/tagged_logging.rb:70:in `tagged'
+railties (5.0.0) lib/rails/rack/logger.rb:24:in `call'
+sprockets-rails (3.2.0) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.0.0) lib/action_dispatch/middleware/request_id.rb:24:in `call'
+rack (2.0.1) lib/rack/method_override.rb:22:in `call'
+rack (2.0.1) lib/rack/runtime.rb:22:in `call'
+activesupport (5.0.0) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+actionpack (5.0.0) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.0.0) lib/action_dispatch/middleware/static.rb:136:in `call'
+rack (2.0.1) lib/rack/sendfile.rb:111:in `call'
+railties (5.0.0) lib/rails/engine.rb:522:in `call'
+puma (3.4.0) lib/puma/configuration.rb:224:in `call'
+puma (3.4.0) lib/puma/server.rb:569:in `handle_request'
+puma (3.4.0) lib/puma/server.rb:406:in `process_client'
+puma (3.4.0) lib/puma/server.rb:271:in `block in run'
+puma (3.4.0) lib/puma/thread_pool.rb:114:in `block in spawn_thread'
+  Rendering /usr/local/rvm/gems/ruby-2.3.0@saasapp/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/diagnostics.html.erb within rescues/layout
+  Rendering /usr/local/rvm/gems/ruby-2.3.0@saasapp/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/_source.html.erb
+  Rendered /usr/local/rvm/gems/ruby-2.3.0@saasapp/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/_source.html.erb (5.0ms)
+  Rendering /usr/local/rvm/gems/ruby-2.3.0@saasapp/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb
+  Rendered /usr/local/rvm/gems/ruby-2.3.0@saasapp/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (1.8ms)
+  Rendering /usr/local/rvm/gems/ruby-2.3.0@saasapp/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb
+  Rendered /usr/local/rvm/gems/ruby-2.3.0@saasapp/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.6ms)
+  Rendered /usr/local/rvm/gems/ruby-2.3.0@saasapp/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/diagnostics.html.erb within rescues/layout (41.4ms)
+Started GET "/" for 24.224.141.35 at 2017-05-06 14:00:39 +0000
+Cannot render console from 24.224.141.35! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+  
+LoadError (Unable to autoload constant PagesController, expected /home/ubuntu/workspace/saasapp/app/controllers/pages_controller.rb to define it):
+  
+activesupport (5.0.0) lib/active_support/dependencies.rb:512:in `load_missing_constant'
+activesupport (5.0.0) lib/active_support/dependencies.rb:203:in `const_missing'
+activesupport (5.0.0) lib/active_support/inflector/methods.rb:268:in `const_get'
+activesupport (5.0.0) lib/active_support/inflector/methods.rb:268:in `block in constantize'
+activesupport (5.0.0) lib/active_support/inflector/methods.rb:266:in `each'
+activesupport (5.0.0) lib/active_support/inflector/methods.rb:266:in `inject'
+activesupport (5.0.0) lib/active_support/inflector/methods.rb:266:in `constantize'
+activesupport (5.0.0) lib/active_support/dependencies.rb:583:in `get'
+activesupport (5.0.0) lib/active_support/dependencies.rb:614:in `constantize'
+actionpack (5.0.0) lib/action_dispatch/http/request.rb:93:in `controller_class'
+actionpack (5.0.0) lib/action_dispatch/routing/route_set.rb:44:in `controller'
+actionpack (5.0.0) lib/action_dispatch/routing/route_set.rb:30:in `serve'
+actionpack (5.0.0) lib/action_dispatch/journey/router.rb:39:in `block in serve'
+actionpack (5.0.0) lib/action_dispatch/journey/router.rb:26:in `each'
+actionpack (5.0.0) lib/action_dispatch/journey/router.rb:26:in `serve'
+actionpack (5.0.0) lib/action_dispatch/routing/route_set.rb:725:in `call'
+rack (2.0.1) lib/rack/etag.rb:25:in `call'
+rack (2.0.1) lib/rack/conditional_get.rb:25:in `call'
+rack (2.0.1) lib/rack/head.rb:12:in `call'
+rack (2.0.1) lib/rack/session/abstract/id.rb:222:in `context'
+rack (2.0.1) lib/rack/session/abstract/id.rb:216:in `call'
+actionpack (5.0.0) lib/action_dispatch/middleware/cookies.rb:613:in `call'
+activerecord (5.0.0) lib/active_record/migration.rb:552:in `call'
+actionpack (5.0.0) lib/action_dispatch/middleware/callbacks.rb:38:in `block in call'
+activesupport (5.0.0) lib/active_support/callbacks.rb:97:in `__run_callbacks__'
+activesupport (5.0.0) lib/active_support/callbacks.rb:750:in `_run_call_callbacks'
+activesupport (5.0.0) lib/active_support/callbacks.rb:90:in `run_callbacks'
+actionpack (5.0.0) lib/action_dispatch/middleware/callbacks.rb:36:in `call'
+actionpack (5.0.0) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.0.0) lib/action_dispatch/middleware/remote_ip.rb:79:in `call'
+actionpack (5.0.0) lib/action_dispatch/middleware/debug_exceptions.rb:49:in `call'
+web-console (3.5.0) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.5.0) lib/web_console/middleware.rb:20:in `block in call'
+web-console (3.5.0) lib/web_console/middleware.rb:18:in `catch'
+web-console (3.5.0) lib/web_console/middleware.rb:18:in `call'
+actionpack (5.0.0) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.0.0) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.0.0) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.0.0) lib/active_support/tagged_logging.rb:70:in `block in tagged'
+activesupport (5.0.0) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.0.0) lib/active_support/tagged_logging.rb:70:in `tagged'
+railties (5.0.0) lib/rails/rack/logger.rb:24:in `call'
+sprockets-rails (3.2.0) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.0.0) lib/action_dispatch/middleware/request_id.rb:24:in `call'
+rack (2.0.1) lib/rack/method_override.rb:22:in `call'
+rack (2.0.1) lib/rack/runtime.rb:22:in `call'
+activesupport (5.0.0) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+actionpack (5.0.0) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.0.0) lib/action_dispatch/middleware/static.rb:136:in `call'
+rack (2.0.1) lib/rack/sendfile.rb:111:in `call'
+railties (5.0.0) lib/rails/engine.rb:522:in `call'
+puma (3.4.0) lib/puma/configuration.rb:224:in `call'
+puma (3.4.0) lib/puma/server.rb:569:in `handle_request'
+puma (3.4.0) lib/puma/server.rb:406:in `process_client'
+puma (3.4.0) lib/puma/server.rb:271:in `block in run'
+puma (3.4.0) lib/puma/thread_pool.rb:114:in `block in spawn_thread'
+  Rendering /usr/local/rvm/gems/ruby-2.3.0@saasapp/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/diagnostics.html.erb within rescues/layout
+  Rendering /usr/local/rvm/gems/ruby-2.3.0@saasapp/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/_source.html.erb
+  Rendered /usr/local/rvm/gems/ruby-2.3.0@saasapp/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/_source.html.erb (3.8ms)
+  Rendering /usr/local/rvm/gems/ruby-2.3.0@saasapp/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb
+  Rendered /usr/local/rvm/gems/ruby-2.3.0@saasapp/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (2.3ms)
+  Rendering /usr/local/rvm/gems/ruby-2.3.0@saasapp/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb
+  Rendered /usr/local/rvm/gems/ruby-2.3.0@saasapp/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.5ms)
+  Rendered /usr/local/rvm/gems/ruby-2.3.0@saasapp/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/diagnostics.html.erb within rescues/layout (36.9ms)
+Started GET "/" for 24.224.141.35 at 2017-05-06 14:00:44 +0000
+Cannot render console from 24.224.141.35! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+  
+LoadError (Unable to autoload constant PagesController, expected /home/ubuntu/workspace/saasapp/app/controllers/pages_controller.rb to define it):
+  
+activesupport (5.0.0) lib/active_support/dependencies.rb:512:in `load_missing_constant'
+activesupport (5.0.0) lib/active_support/dependencies.rb:203:in `const_missing'
+activesupport (5.0.0) lib/active_support/inflector/methods.rb:268:in `const_get'
+activesupport (5.0.0) lib/active_support/inflector/methods.rb:268:in `block in constantize'
+activesupport (5.0.0) lib/active_support/inflector/methods.rb:266:in `each'
+activesupport (5.0.0) lib/active_support/inflector/methods.rb:266:in `inject'
+activesupport (5.0.0) lib/active_support/inflector/methods.rb:266:in `constantize'
+activesupport (5.0.0) lib/active_support/dependencies.rb:583:in `get'
+activesupport (5.0.0) lib/active_support/dependencies.rb:614:in `constantize'
+actionpack (5.0.0) lib/action_dispatch/http/request.rb:93:in `controller_class'
+actionpack (5.0.0) lib/action_dispatch/routing/route_set.rb:44:in `controller'
+actionpack (5.0.0) lib/action_dispatch/routing/route_set.rb:30:in `serve'
+actionpack (5.0.0) lib/action_dispatch/journey/router.rb:39:in `block in serve'
+actionpack (5.0.0) lib/action_dispatch/journey/router.rb:26:in `each'
+actionpack (5.0.0) lib/action_dispatch/journey/router.rb:26:in `serve'
+actionpack (5.0.0) lib/action_dispatch/routing/route_set.rb:725:in `call'
+rack (2.0.1) lib/rack/etag.rb:25:in `call'
+rack (2.0.1) lib/rack/conditional_get.rb:25:in `call'
+rack (2.0.1) lib/rack/head.rb:12:in `call'
+rack (2.0.1) lib/rack/session/abstract/id.rb:222:in `context'
+rack (2.0.1) lib/rack/session/abstract/id.rb:216:in `call'
+actionpack (5.0.0) lib/action_dispatch/middleware/cookies.rb:613:in `call'
+activerecord (5.0.0) lib/active_record/migration.rb:552:in `call'
+actionpack (5.0.0) lib/action_dispatch/middleware/callbacks.rb:38:in `block in call'
+activesupport (5.0.0) lib/active_support/callbacks.rb:97:in `__run_callbacks__'
+activesupport (5.0.0) lib/active_support/callbacks.rb:750:in `_run_call_callbacks'
+activesupport (5.0.0) lib/active_support/callbacks.rb:90:in `run_callbacks'
+actionpack (5.0.0) lib/action_dispatch/middleware/callbacks.rb:36:in `call'
+actionpack (5.0.0) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.0.0) lib/action_dispatch/middleware/remote_ip.rb:79:in `call'
+actionpack (5.0.0) lib/action_dispatch/middleware/debug_exceptions.rb:49:in `call'
+web-console (3.5.0) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.5.0) lib/web_console/middleware.rb:20:in `block in call'
+web-console (3.5.0) lib/web_console/middleware.rb:18:in `catch'
+web-console (3.5.0) lib/web_console/middleware.rb:18:in `call'
+actionpack (5.0.0) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.0.0) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.0.0) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.0.0) lib/active_support/tagged_logging.rb:70:in `block in tagged'
+activesupport (5.0.0) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.0.0) lib/active_support/tagged_logging.rb:70:in `tagged'
+railties (5.0.0) lib/rails/rack/logger.rb:24:in `call'
+sprockets-rails (3.2.0) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.0.0) lib/action_dispatch/middleware/request_id.rb:24:in `call'
+rack (2.0.1) lib/rack/method_override.rb:22:in `call'
+rack (2.0.1) lib/rack/runtime.rb:22:in `call'
+activesupport (5.0.0) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+actionpack (5.0.0) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.0.0) lib/action_dispatch/middleware/static.rb:136:in `call'
+rack (2.0.1) lib/rack/sendfile.rb:111:in `call'
+railties (5.0.0) lib/rails/engine.rb:522:in `call'
+puma (3.4.0) lib/puma/configuration.rb:224:in `call'
+puma (3.4.0) lib/puma/server.rb:569:in `handle_request'
+puma (3.4.0) lib/puma/server.rb:406:in `process_client'
+puma (3.4.0) lib/puma/server.rb:271:in `block in run'
+puma (3.4.0) lib/puma/thread_pool.rb:114:in `block in spawn_thread'
+  Rendering /usr/local/rvm/gems/ruby-2.3.0@saasapp/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/diagnostics.html.erb within rescues/layout
+  Rendering /usr/local/rvm/gems/ruby-2.3.0@saasapp/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/_source.html.erb
+  Rendered /usr/local/rvm/gems/ruby-2.3.0@saasapp/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/_source.html.erb (3.1ms)
+  Rendering /usr/local/rvm/gems/ruby-2.3.0@saasapp/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb
+  Rendered /usr/local/rvm/gems/ruby-2.3.0@saasapp/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (1.8ms)
+  Rendering /usr/local/rvm/gems/ruby-2.3.0@saasapp/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb
+  Rendered /usr/local/rvm/gems/ruby-2.3.0@saasapp/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.1ms)
+  Rendered /usr/local/rvm/gems/ruby-2.3.0@saasapp/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/diagnostics.html.erb within rescues/layout (31.6ms)
+Started GET "/" for 24.224.141.35 at 2017-05-06 14:01:57 +0000
+Cannot render console from 24.224.141.35! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+  
+LoadError (Unable to autoload constant PagesController, expected /home/ubuntu/workspace/saasapp/app/controllers/pages_controller.rb to define it):
+  
+activesupport (5.0.0) lib/active_support/dependencies.rb:512:in `load_missing_constant'
+activesupport (5.0.0) lib/active_support/dependencies.rb:203:in `const_missing'
+activesupport (5.0.0) lib/active_support/inflector/methods.rb:268:in `const_get'
+activesupport (5.0.0) lib/active_support/inflector/methods.rb:268:in `block in constantize'
+activesupport (5.0.0) lib/active_support/inflector/methods.rb:266:in `each'
+activesupport (5.0.0) lib/active_support/inflector/methods.rb:266:in `inject'
+activesupport (5.0.0) lib/active_support/inflector/methods.rb:266:in `constantize'
+activesupport (5.0.0) lib/active_support/dependencies.rb:583:in `get'
+activesupport (5.0.0) lib/active_support/dependencies.rb:614:in `constantize'
+actionpack (5.0.0) lib/action_dispatch/http/request.rb:93:in `controller_class'
+actionpack (5.0.0) lib/action_dispatch/routing/route_set.rb:44:in `controller'
+actionpack (5.0.0) lib/action_dispatch/routing/route_set.rb:30:in `serve'
+actionpack (5.0.0) lib/action_dispatch/journey/router.rb:39:in `block in serve'
+actionpack (5.0.0) lib/action_dispatch/journey/router.rb:26:in `each'
+actionpack (5.0.0) lib/action_dispatch/journey/router.rb:26:in `serve'
+actionpack (5.0.0) lib/action_dispatch/routing/route_set.rb:725:in `call'
+rack (2.0.1) lib/rack/etag.rb:25:in `call'
+rack (2.0.1) lib/rack/conditional_get.rb:25:in `call'
+rack (2.0.1) lib/rack/head.rb:12:in `call'
+rack (2.0.1) lib/rack/session/abstract/id.rb:222:in `context'
+rack (2.0.1) lib/rack/session/abstract/id.rb:216:in `call'
+actionpack (5.0.0) lib/action_dispatch/middleware/cookies.rb:613:in `call'
+activerecord (5.0.0) lib/active_record/migration.rb:552:in `call'
+actionpack (5.0.0) lib/action_dispatch/middleware/callbacks.rb:38:in `block in call'
+activesupport (5.0.0) lib/active_support/callbacks.rb:97:in `__run_callbacks__'
+activesupport (5.0.0) lib/active_support/callbacks.rb:750:in `_run_call_callbacks'
+activesupport (5.0.0) lib/active_support/callbacks.rb:90:in `run_callbacks'
+actionpack (5.0.0) lib/action_dispatch/middleware/callbacks.rb:36:in `call'
+actionpack (5.0.0) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.0.0) lib/action_dispatch/middleware/remote_ip.rb:79:in `call'
+actionpack (5.0.0) lib/action_dispatch/middleware/debug_exceptions.rb:49:in `call'
+web-console (3.5.0) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.5.0) lib/web_console/middleware.rb:20:in `block in call'
+web-console (3.5.0) lib/web_console/middleware.rb:18:in `catch'
+web-console (3.5.0) lib/web_console/middleware.rb:18:in `call'
+actionpack (5.0.0) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.0.0) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.0.0) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.0.0) lib/active_support/tagged_logging.rb:70:in `block in tagged'
+activesupport (5.0.0) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.0.0) lib/active_support/tagged_logging.rb:70:in `tagged'
+railties (5.0.0) lib/rails/rack/logger.rb:24:in `call'
+sprockets-rails (3.2.0) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.0.0) lib/action_dispatch/middleware/request_id.rb:24:in `call'
+rack (2.0.1) lib/rack/method_override.rb:22:in `call'
+rack (2.0.1) lib/rack/runtime.rb:22:in `call'
+activesupport (5.0.0) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+actionpack (5.0.0) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.0.0) lib/action_dispatch/middleware/static.rb:136:in `call'
+rack (2.0.1) lib/rack/sendfile.rb:111:in `call'
+railties (5.0.0) lib/rails/engine.rb:522:in `call'
+puma (3.4.0) lib/puma/configuration.rb:224:in `call'
+puma (3.4.0) lib/puma/server.rb:569:in `handle_request'
+puma (3.4.0) lib/puma/server.rb:406:in `process_client'
+puma (3.4.0) lib/puma/server.rb:271:in `block in run'
+puma (3.4.0) lib/puma/thread_pool.rb:114:in `block in spawn_thread'
+  Rendering /usr/local/rvm/gems/ruby-2.3.0@saasapp/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/diagnostics.html.erb within rescues/layout
+  Rendering /usr/local/rvm/gems/ruby-2.3.0@saasapp/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/_source.html.erb
+  Rendered /usr/local/rvm/gems/ruby-2.3.0@saasapp/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/_source.html.erb (3.3ms)
+  Rendering /usr/local/rvm/gems/ruby-2.3.0@saasapp/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb
+  Rendered /usr/local/rvm/gems/ruby-2.3.0@saasapp/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (1.7ms)
+  Rendering /usr/local/rvm/gems/ruby-2.3.0@saasapp/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb
+  Rendered /usr/local/rvm/gems/ruby-2.3.0@saasapp/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.0ms)
+  Rendered /usr/local/rvm/gems/ruby-2.3.0@saasapp/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/diagnostics.html.erb within rescues/layout (32.2ms)
+Started GET "/" for 24.224.141.35 at 2017-05-06 14:05:26 +0000
+Cannot render console from 24.224.141.35! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+  
+LoadError (Unable to autoload constant PagesController, expected /home/ubuntu/workspace/saasapp/app/controllers/pages_controller.rb to define it):
+  
+activesupport (5.0.0) lib/active_support/dependencies.rb:512:in `load_missing_constant'
+activesupport (5.0.0) lib/active_support/dependencies.rb:203:in `const_missing'
+activesupport (5.0.0) lib/active_support/inflector/methods.rb:268:in `const_get'
+activesupport (5.0.0) lib/active_support/inflector/methods.rb:268:in `block in constantize'
+activesupport (5.0.0) lib/active_support/inflector/methods.rb:266:in `each'
+activesupport (5.0.0) lib/active_support/inflector/methods.rb:266:in `inject'
+activesupport (5.0.0) lib/active_support/inflector/methods.rb:266:in `constantize'
+activesupport (5.0.0) lib/active_support/dependencies.rb:583:in `get'
+activesupport (5.0.0) lib/active_support/dependencies.rb:614:in `constantize'
+actionpack (5.0.0) lib/action_dispatch/http/request.rb:93:in `controller_class'
+actionpack (5.0.0) lib/action_dispatch/routing/route_set.rb:44:in `controller'
+actionpack (5.0.0) lib/action_dispatch/routing/route_set.rb:30:in `serve'
+actionpack (5.0.0) lib/action_dispatch/journey/router.rb:39:in `block in serve'
+actionpack (5.0.0) lib/action_dispatch/journey/router.rb:26:in `each'
+actionpack (5.0.0) lib/action_dispatch/journey/router.rb:26:in `serve'
+actionpack (5.0.0) lib/action_dispatch/routing/route_set.rb:725:in `call'
+rack (2.0.1) lib/rack/etag.rb:25:in `call'
+rack (2.0.1) lib/rack/conditional_get.rb:25:in `call'
+rack (2.0.1) lib/rack/head.rb:12:in `call'
+rack (2.0.1) lib/rack/session/abstract/id.rb:222:in `context'
+rack (2.0.1) lib/rack/session/abstract/id.rb:216:in `call'
+actionpack (5.0.0) lib/action_dispatch/middleware/cookies.rb:613:in `call'
+activerecord (5.0.0) lib/active_record/migration.rb:552:in `call'
+actionpack (5.0.0) lib/action_dispatch/middleware/callbacks.rb:38:in `block in call'
+activesupport (5.0.0) lib/active_support/callbacks.rb:97:in `__run_callbacks__'
+activesupport (5.0.0) lib/active_support/callbacks.rb:750:in `_run_call_callbacks'
+activesupport (5.0.0) lib/active_support/callbacks.rb:90:in `run_callbacks'
+actionpack (5.0.0) lib/action_dispatch/middleware/callbacks.rb:36:in `call'
+actionpack (5.0.0) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.0.0) lib/action_dispatch/middleware/remote_ip.rb:79:in `call'
+actionpack (5.0.0) lib/action_dispatch/middleware/debug_exceptions.rb:49:in `call'
+web-console (3.5.0) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.5.0) lib/web_console/middleware.rb:20:in `block in call'
+web-console (3.5.0) lib/web_console/middleware.rb:18:in `catch'
+web-console (3.5.0) lib/web_console/middleware.rb:18:in `call'
+actionpack (5.0.0) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.0.0) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.0.0) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.0.0) lib/active_support/tagged_logging.rb:70:in `block in tagged'
+activesupport (5.0.0) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.0.0) lib/active_support/tagged_logging.rb:70:in `tagged'
+railties (5.0.0) lib/rails/rack/logger.rb:24:in `call'
+sprockets-rails (3.2.0) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.0.0) lib/action_dispatch/middleware/request_id.rb:24:in `call'
+rack (2.0.1) lib/rack/method_override.rb:22:in `call'
+rack (2.0.1) lib/rack/runtime.rb:22:in `call'
+activesupport (5.0.0) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+actionpack (5.0.0) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.0.0) lib/action_dispatch/middleware/static.rb:136:in `call'
+rack (2.0.1) lib/rack/sendfile.rb:111:in `call'
+railties (5.0.0) lib/rails/engine.rb:522:in `call'
+puma (3.4.0) lib/puma/configuration.rb:224:in `call'
+puma (3.4.0) lib/puma/server.rb:569:in `handle_request'
+puma (3.4.0) lib/puma/server.rb:406:in `process_client'
+puma (3.4.0) lib/puma/server.rb:271:in `block in run'
+puma (3.4.0) lib/puma/thread_pool.rb:114:in `block in spawn_thread'
+  Rendering /usr/local/rvm/gems/ruby-2.3.0@saasapp/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/diagnostics.html.erb within rescues/layout
+  Rendering /usr/local/rvm/gems/ruby-2.3.0@saasapp/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/_source.html.erb
+  Rendered /usr/local/rvm/gems/ruby-2.3.0@saasapp/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/_source.html.erb (2.8ms)
+  Rendering /usr/local/rvm/gems/ruby-2.3.0@saasapp/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb
+  Rendered /usr/local/rvm/gems/ruby-2.3.0@saasapp/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (1.9ms)
+  Rendering /usr/local/rvm/gems/ruby-2.3.0@saasapp/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb
+  Rendered /usr/local/rvm/gems/ruby-2.3.0@saasapp/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.3ms)
+  Rendered /usr/local/rvm/gems/ruby-2.3.0@saasapp/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/diagnostics.html.erb within rescues/layout (32.6ms)
+Started GET "/" for 24.224.141.35 at 2017-05-06 14:05:50 +0000
+Cannot render console from 24.224.141.35! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+  
+LoadError (Unable to autoload constant PagesController, expected /home/ubuntu/workspace/saasapp/app/controllers/pages_controller.rb to define it):
+  
+activesupport (5.0.0) lib/active_support/dependencies.rb:512:in `load_missing_constant'
+activesupport (5.0.0) lib/active_support/dependencies.rb:203:in `const_missing'
+activesupport (5.0.0) lib/active_support/inflector/methods.rb:268:in `const_get'
+activesupport (5.0.0) lib/active_support/inflector/methods.rb:268:in `block in constantize'
+activesupport (5.0.0) lib/active_support/inflector/methods.rb:266:in `each'
+activesupport (5.0.0) lib/active_support/inflector/methods.rb:266:in `inject'
+activesupport (5.0.0) lib/active_support/inflector/methods.rb:266:in `constantize'
+activesupport (5.0.0) lib/active_support/dependencies.rb:583:in `get'
+activesupport (5.0.0) lib/active_support/dependencies.rb:614:in `constantize'
+actionpack (5.0.0) lib/action_dispatch/http/request.rb:93:in `controller_class'
+actionpack (5.0.0) lib/action_dispatch/routing/route_set.rb:44:in `controller'
+actionpack (5.0.0) lib/action_dispatch/routing/route_set.rb:30:in `serve'
+actionpack (5.0.0) lib/action_dispatch/journey/router.rb:39:in `block in serve'
+actionpack (5.0.0) lib/action_dispatch/journey/router.rb:26:in `each'
+actionpack (5.0.0) lib/action_dispatch/journey/router.rb:26:in `serve'
+actionpack (5.0.0) lib/action_dispatch/routing/route_set.rb:725:in `call'
+rack (2.0.1) lib/rack/etag.rb:25:in `call'
+rack (2.0.1) lib/rack/conditional_get.rb:25:in `call'
+rack (2.0.1) lib/rack/head.rb:12:in `call'
+rack (2.0.1) lib/rack/session/abstract/id.rb:222:in `context'
+rack (2.0.1) lib/rack/session/abstract/id.rb:216:in `call'
+actionpack (5.0.0) lib/action_dispatch/middleware/cookies.rb:613:in `call'
+activerecord (5.0.0) lib/active_record/migration.rb:552:in `call'
+actionpack (5.0.0) lib/action_dispatch/middleware/callbacks.rb:38:in `block in call'
+activesupport (5.0.0) lib/active_support/callbacks.rb:97:in `__run_callbacks__'
+activesupport (5.0.0) lib/active_support/callbacks.rb:750:in `_run_call_callbacks'
+activesupport (5.0.0) lib/active_support/callbacks.rb:90:in `run_callbacks'
+actionpack (5.0.0) lib/action_dispatch/middleware/callbacks.rb:36:in `call'
+actionpack (5.0.0) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.0.0) lib/action_dispatch/middleware/remote_ip.rb:79:in `call'
+actionpack (5.0.0) lib/action_dispatch/middleware/debug_exceptions.rb:49:in `call'
+web-console (3.5.0) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.5.0) lib/web_console/middleware.rb:20:in `block in call'
+web-console (3.5.0) lib/web_console/middleware.rb:18:in `catch'
+web-console (3.5.0) lib/web_console/middleware.rb:18:in `call'
+actionpack (5.0.0) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.0.0) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.0.0) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.0.0) lib/active_support/tagged_logging.rb:70:in `block in tagged'
+activesupport (5.0.0) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.0.0) lib/active_support/tagged_logging.rb:70:in `tagged'
+railties (5.0.0) lib/rails/rack/logger.rb:24:in `call'
+sprockets-rails (3.2.0) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.0.0) lib/action_dispatch/middleware/request_id.rb:24:in `call'
+rack (2.0.1) lib/rack/method_override.rb:22:in `call'
+rack (2.0.1) lib/rack/runtime.rb:22:in `call'
+activesupport (5.0.0) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+actionpack (5.0.0) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.0.0) lib/action_dispatch/middleware/static.rb:136:in `call'
+rack (2.0.1) lib/rack/sendfile.rb:111:in `call'
+railties (5.0.0) lib/rails/engine.rb:522:in `call'
+puma (3.4.0) lib/puma/configuration.rb:224:in `call'
+puma (3.4.0) lib/puma/server.rb:569:in `handle_request'
+puma (3.4.0) lib/puma/server.rb:406:in `process_client'
+puma (3.4.0) lib/puma/server.rb:271:in `block in run'
+puma (3.4.0) lib/puma/thread_pool.rb:114:in `block in spawn_thread'
+  Rendering /usr/local/rvm/gems/ruby-2.3.0@saasapp/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/diagnostics.html.erb within rescues/layout
+  Rendering /usr/local/rvm/gems/ruby-2.3.0@saasapp/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/_source.html.erb
+  Rendered /usr/local/rvm/gems/ruby-2.3.0@saasapp/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/_source.html.erb (3.0ms)
+  Rendering /usr/local/rvm/gems/ruby-2.3.0@saasapp/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb
+  Rendered /usr/local/rvm/gems/ruby-2.3.0@saasapp/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (1.8ms)
+  Rendering /usr/local/rvm/gems/ruby-2.3.0@saasapp/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb
+  Rendered /usr/local/rvm/gems/ruby-2.3.0@saasapp/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.1ms)
+  Rendered /usr/local/rvm/gems/ruby-2.3.0@saasapp/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/diagnostics.html.erb within rescues/layout (31.5ms)
+Started GET "/" for 24.224.141.35 at 2017-05-06 14:13:01 +0000
+Cannot render console from 24.224.141.35! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PagesController#home as HTML
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 427ms (Views: 425.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 24.224.141.35 at 2017-05-06 21:21:53 +0000
+Cannot render console from 24.224.141.35! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PagesController#home as HTML
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (3.6ms)
+Completed 200 OK in 320ms (Views: 305.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 24.224.141.35 at 2017-05-08 12:38:47 +0000
+Cannot render console from 24.224.141.35! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PagesController#home as HTML
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (2.9ms)
+Completed 200 OK in 270ms (Views: 259.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 24.224.141.35 at 2017-05-08 12:38:51 +0000
+Cannot render console from 24.224.141.35! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PagesController#home as HTML
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 21ms (Views: 19.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/about" for 24.224.141.35 at 2017-05-08 12:39:00 +0000
+Cannot render console from 24.224.141.35! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PagesController#about as HTML
+  Rendering pages/about.html.erb within layouts/application
+  Rendered pages/about.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 18ms (Views: 17.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 24.224.141.35 at 2017-05-08 12:39:04 +0000
+Cannot render console from 24.224.141.35! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PagesController#home as HTML
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 18ms (Views: 16.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 24.224.141.35 at 2017-05-08 12:41:33 +0000
+Cannot render console from 24.224.141.35! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PagesController#home as HTML
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 21ms (Views: 19.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 24.224.141.35 at 2017-05-08 12:54:07 +0000
+Cannot render console from 24.224.141.35! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PagesController#home as HTML
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (2.0ms)
+Started GET "/" for 24.224.141.35 at 2017-05-08 12:54:12 +0000
+Cannot render console from 24.224.141.35! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PagesController#home as HTML
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (1.1ms)
+Completed 200 OK in 8549ms (Views: 8537.6ms | ActiveRecord: 0.0ms)
+
+
+Completed 200 OK in 4080ms (Views: 4078.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 24.224.141.35 at 2017-05-08 12:55:03 +0000
+Cannot render console from 24.224.141.35! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PagesController#home as HTML
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (0.8ms)
+Completed 200 OK in 59ms (Views: 55.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 24.224.141.35 at 2017-05-08 12:56:08 +0000
+Cannot render console from 24.224.141.35! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PagesController#home as HTML
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 2059ms (Views: 2056.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 24.224.141.35 at 2017-05-08 13:40:20 +0000
+Cannot render console from 24.224.141.35! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PagesController#home as HTML
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (2.8ms)
+Completed 200 OK in 431ms (Views: 418.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 24.224.141.35 at 2017-05-08 13:41:27 +0000
+Cannot render console from 24.224.141.35! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PagesController#home as HTML
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 36ms (Views: 33.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/about" for 24.224.141.35 at 2017-05-08 13:42:28 +0000
+Cannot render console from 24.224.141.35! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PagesController#about as HTML
+  Rendering pages/about.html.erb within layouts/application
+  Rendered pages/about.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 47ms (Views: 43.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 24.224.141.35 at 2017-05-08 13:42:29 +0000
+Cannot render console from 24.224.141.35! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PagesController#home as HTML
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 35ms (Views: 33.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 24.224.141.35 at 2017-05-08 13:42:30 +0000
+Cannot render console from 24.224.141.35! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PagesController#home as HTML
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 104ms (Views: 102.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/about" for 24.224.141.35 at 2017-05-08 13:42:32 +0000
+Cannot render console from 24.224.141.35! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PagesController#about as HTML
+  Rendering pages/about.html.erb within layouts/application
+  Rendered pages/about.html.erb within layouts/application (0.8ms)
+Completed 200 OK in 63ms (Views: 61.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 24.224.141.35 at 2017-05-08 13:42:33 +0000
+Cannot render console from 24.224.141.35! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PagesController#home as HTML
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 39ms (Views: 37.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/about" for 24.224.141.35 at 2017-05-08 13:42:34 +0000
+Cannot render console from 24.224.141.35! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PagesController#about as HTML
+  Rendering pages/about.html.erb within layouts/application
+  Rendered pages/about.html.erb within layouts/application (1.1ms)
+Completed 200 OK in 70ms (Views: 68.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 24.224.141.35 at 2017-05-08 13:42:35 +0000
+Cannot render console from 24.224.141.35! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PagesController#home as HTML
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 215ms (Views: 212.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 24.224.141.35 at 2017-05-08 13:56:34 +0000
+Cannot render console from 24.224.141.35! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PagesController#home as HTML
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (1.8ms)
+Completed 200 OK in 314ms (Views: 303.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 24.224.141.35 at 2017-05-08 13:56:39 +0000
+Cannot render console from 24.224.141.35! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PagesController#home as HTML
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 30ms (Views: 28.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 24.224.141.35 at 2017-05-08 13:57:53 +0000
+Cannot render console from 24.224.141.35! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PagesController#home as HTML
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 1889ms (Views: 1887.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 24.224.141.35 at 2017-05-08 13:59:47 +0000
+Cannot render console from 24.224.141.35! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PagesController#home as HTML
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (0.8ms)
+Completed 200 OK in 2507ms (Views: 2504.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 24.224.141.35 at 2017-05-08 14:00:08 +0000
+Cannot render console from 24.224.141.35! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PagesController#home as HTML
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 1907ms (Views: 1905.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 24.224.141.35 at 2017-05-08 14:01:04 +0000
+Cannot render console from 24.224.141.35! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PagesController#home as HTML
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 1685ms (Views: 1683.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/about" for 24.224.141.35 at 2017-05-08 14:01:19 +0000
+Cannot render console from 24.224.141.35! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PagesController#about as HTML
+  Rendering pages/about.html.erb within layouts/application
+  Rendered pages/about.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 35ms (Views: 32.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 24.224.141.35 at 2017-05-08 14:03:01 +0000
+Cannot render console from 24.224.141.35! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PagesController#home as HTML
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (0.7ms)
+Completed 200 OK in 53ms (Views: 50.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 24.224.141.35 at 2017-05-08 14:03:08 +0000
+Cannot render console from 24.224.141.35! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PagesController#home as HTML
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 41ms (Views: 39.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 24.224.141.35 at 2017-05-08 14:14:57 +0000
+Cannot render console from 24.224.141.35! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PagesController#home as HTML
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (1.9ms)
+Completed 200 OK in 354ms (Views: 343.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 24.224.141.35 at 2017-05-08 14:15:32 +0000
+Cannot render console from 24.224.141.35! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PagesController#home as HTML
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (0.7ms)
+Completed 200 OK in 2653ms (Views: 2650.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 24.224.141.35 at 2017-05-08 14:16:46 +0000
+Cannot render console from 24.224.141.35! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PagesController#home as HTML
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (0.8ms)
+Completed 200 OK in 66ms (Views: 63.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 24.224.141.35 at 2017-05-08 14:17:28 +0000
+Cannot render console from 24.224.141.35! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PagesController#home as HTML
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 55ms (Views: 53.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 24.224.141.35 at 2017-05-08 14:18:14 +0000
+Cannot render console from 24.224.141.35! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PagesController#home as HTML
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 1666ms (Views: 1664.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 24.224.141.35 at 2017-05-08 14:20:06 +0000
+Cannot render console from 24.224.141.35! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PagesController#home as HTML
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 37ms (Views: 34.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 24.224.141.35 at 2017-05-08 14:23:48 +0000
+Cannot render console from 24.224.141.35! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PagesController#home as HTML
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (0.7ms)
+Completed 200 OK in 2250ms (Views: 2248.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 24.224.141.35 at 2017-05-08 14:24:36 +0000
+Cannot render console from 24.224.141.35! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PagesController#home as HTML
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 2234ms (Views: 2233.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 24.224.141.35 at 2017-05-08 14:35:59 +0000
+Cannot render console from 24.224.141.35! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PagesController#home as HTML
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (2.4ms)
+Completed 200 OK in 2502ms (Views: 2489.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 24.224.141.35 at 2017-05-08 14:36:17 +0000
+Cannot render console from 24.224.141.35! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PagesController#home as HTML
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 54ms (Views: 52.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 24.224.141.35 at 2017-05-08 14:38:05 +0000
+Cannot render console from 24.224.141.35! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PagesController#home as HTML
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (0.8ms)
+Completed 200 OK in 2158ms (Views: 2155.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 24.224.141.35 at 2017-05-08 14:39:17 +0000
+Cannot render console from 24.224.141.35! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PagesController#home as HTML
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (0.8ms)
+Completed 200 OK in 2276ms (Views: 2273.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/about" for 24.224.141.35 at 2017-05-08 14:39:29 +0000
+Cannot render console from 24.224.141.35! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PagesController#about as HTML
+  Rendering pages/about.html.erb within layouts/application
+  Rendered pages/about.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 36ms (Views: 34.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 24.224.141.35 at 2017-05-08 14:40:00 +0000
+Cannot render console from 24.224.141.35! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PagesController#home as HTML
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 2538ms (Views: 2536.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 24.224.141.35 at 2017-05-08 14:42:17 +0000
+Cannot render console from 24.224.141.35! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PagesController#home as HTML
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 1934ms (Views: 1932.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 24.224.141.35 at 2017-05-08 14:42:25 +0000
+Cannot render console from 24.224.141.35! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PagesController#home as HTML
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 31ms (Views: 30.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 24.224.141.35 at 2017-05-08 14:43:28 +0000
+Cannot render console from 24.224.141.35! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PagesController#home as HTML
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 1802ms (Views: 1801.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 24.224.141.35 at 2017-05-08 14:46:55 +0000
+Cannot render console from 24.224.141.35! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PagesController#home as HTML
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (3.0ms)
+Completed 200 OK in 335ms (Views: 323.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 24.224.141.35 at 2017-05-08 14:47:00 +0000
+Cannot render console from 24.224.141.35! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PagesController#home as HTML
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 39ms (Views: 36.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/about" for 24.224.141.35 at 2017-05-08 14:47:01 +0000
+Cannot render console from 24.224.141.35! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PagesController#about as HTML
+  Rendering pages/about.html.erb within layouts/application
+  Rendered pages/about.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 37ms (Views: 35.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 24.224.141.35 at 2017-05-08 14:57:45 +0000
+Cannot render console from 24.224.141.35! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PagesController#home as HTML
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (2.9ms)
+Completed 200 OK in 3458ms (Views: 3440.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 24.224.141.35 at 2017-05-08 14:58:26 +0000
+Cannot render console from 24.224.141.35! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PagesController#home as HTML
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (0.7ms)
+Completed 200 OK in 1914ms (Views: 1912.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 24.224.141.35 at 2017-05-08 15:01:05 +0000
+Cannot render console from 24.224.141.35! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PagesController#home as HTML
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (0.9ms)
+Completed 200 OK in 2200ms (Views: 2198.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/about" for 24.224.141.35 at 2017-05-08 15:01:11 +0000
+Cannot render console from 24.224.141.35! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PagesController#about as HTML
+  Rendering pages/about.html.erb within layouts/application
+  Rendered pages/about.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 41ms (Views: 39.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 24.224.141.35 at 2017-05-08 15:36:24 +0000
+Cannot render console from 24.224.141.35! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PagesController#home as HTML
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (3.2ms)
+Completed 200 OK in 4944ms (Views: 4928.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 24.224.141.35 at 2017-05-08 15:36:34 +0000
+Cannot render console from 24.224.141.35! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PagesController#home as HTML
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 48ms (Views: 46.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 24.224.141.35 at 2017-05-08 15:37:12 +0000
+Cannot render console from 24.224.141.35! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PagesController#home as HTML
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 41ms (Views: 39.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 24.224.141.35 at 2017-05-08 15:40:51 +0000
+Cannot render console from 24.224.141.35! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PagesController#home as HTML
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (1.7ms)
+Completed 200 OK in 2828ms (Views: 2818.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 24.224.141.35 at 2017-05-08 15:41:23 +0000
+Cannot render console from 24.224.141.35! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PagesController#home as HTML
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 40ms (Views: 38.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 24.224.141.35 at 2017-05-08 15:42:49 +0000
+Cannot render console from 24.224.141.35! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PagesController#home as HTML
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (0.7ms)
+Completed 200 OK in 53ms (Views: 52.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 24.224.141.35 at 2017-05-08 15:43:10 +0000
+Cannot render console from 24.224.141.35! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PagesController#home as HTML
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (0.7ms)
+Completed 200 OK in 70ms (Views: 68.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 24.224.141.35 at 2017-05-08 15:43:35 +0000
+Cannot render console from 24.224.141.35! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PagesController#home as HTML
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (1.1ms)
+Completed 200 OK in 78ms (Views: 75.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 24.224.141.35 at 2017-05-08 15:43:44 +0000
+Cannot render console from 24.224.141.35! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PagesController#home as HTML
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (1.2ms)
+Completed 200 OK in 90ms (Views: 88.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 24.224.141.35 at 2017-05-09 12:45:37 +0000
+Cannot render console from 24.224.141.35! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PagesController#home as HTML
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (2.2ms)
+Completed 200 OK in 564ms (Views: 550.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 24.224.141.35 at 2017-05-09 12:48:46 +0000
+Cannot render console from 24.224.141.35! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PagesController#home as HTML
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 40ms (Views: 38.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/about" for 24.224.141.35 at 2017-05-09 12:48:49 +0000
+Cannot render console from 24.224.141.35! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PagesController#about as HTML
+  Rendering pages/about.html.erb within layouts/application
+  Rendered pages/about.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 37ms (Views: 35.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/about" for 24.224.141.35 at 2017-05-09 12:48:51 +0000
+Cannot render console from 24.224.141.35! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PagesController#about as HTML
+  Rendering pages/about.html.erb within layouts/application
+  Rendered pages/about.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 77ms (Views: 75.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/about" for 24.224.141.35 at 2017-05-09 12:48:53 +0000
+Cannot render console from 24.224.141.35! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PagesController#about as HTML
+  Rendering pages/about.html.erb within layouts/application
+  Rendered pages/about.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 48ms (Views: 46.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 24.224.141.35 at 2017-05-09 12:48:55 +0000
+Cannot render console from 24.224.141.35! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PagesController#home as HTML
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 48ms (Views: 46.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 24.224.141.35 at 2017-05-09 12:51:14 +0000
+Cannot render console from 24.224.141.35! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PagesController#home as HTML
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (0.8ms)
+Completed 200 OK in 59ms (Views: 57.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 24.224.141.35 at 2017-05-09 12:52:48 +0000
+Cannot render console from 24.224.141.35! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PagesController#home as HTML
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (1.1ms)
+Completed 200 OK in 61ms (Views: 59.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 24.224.141.35 at 2017-05-09 12:53:01 +0000
+Cannot render console from 24.224.141.35! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PagesController#home as HTML
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 95ms (Views: 93.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 24.224.141.35 at 2017-05-09 12:53:01 +0000
+Cannot render console from 24.224.141.35! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PagesController#home as HTML
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (0.7ms)
+Completed 200 OK in 77ms (Views: 75.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 24.224.141.35 at 2017-05-09 12:53:01 +0000
+Cannot render console from 24.224.141.35! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PagesController#home as HTML
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 50ms (Views: 48.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 24.224.141.35 at 2017-05-09 12:53:02 +0000
+Cannot render console from 24.224.141.35! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PagesController#home as HTML
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 122ms (Views: 120.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 24.224.141.35 at 2017-05-09 12:53:03 +0000
+Cannot render console from 24.224.141.35! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PagesController#home as HTML
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (0.7ms)
+Completed 200 OK in 64ms (Views: 62.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 24.224.141.35 at 2017-05-09 13:05:21 +0000
+Cannot render console from 24.224.141.35! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PagesController#home as HTML
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (2.0ms)
+Completed 200 OK in 338ms (Views: 328.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/about" for 24.224.141.35 at 2017-05-09 13:05:31 +0000
+Cannot render console from 24.224.141.35! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PagesController#about as HTML
+  Rendering pages/about.html.erb within layouts/application
+  Rendered pages/about.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 63ms (Views: 60.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/about" for 24.224.141.35 at 2017-05-09 13:05:32 +0000
+Cannot render console from 24.224.141.35! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PagesController#about as HTML
+  Rendering pages/about.html.erb within layouts/application
+  Rendered pages/about.html.erb within layouts/application (0.7ms)
+Completed 200 OK in 53ms (Views: 50.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 24.224.141.35 at 2017-05-09 13:05:33 +0000
+Cannot render console from 24.224.141.35! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PagesController#home as HTML
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 239ms (Views: 237.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 24.224.141.35 at 2017-05-09 13:06:08 +0000
+Cannot render console from 24.224.141.35! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PagesController#home as HTML
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (0.9ms)
+Completed 200 OK in 52ms (Views: 50.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/about" for 24.224.141.35 at 2017-05-09 13:23:06 +0000
+Cannot render console from 24.224.141.35! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PagesController#about as HTML
+  Rendering pages/about.html.erb within layouts/application
+  Rendered pages/about.html.erb within layouts/application (2.5ms)
+Completed 200 OK in 350ms (Views: 338.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/about" for 24.224.141.35 at 2017-05-09 13:24:27 +0000
+Cannot render console from 24.224.141.35! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PagesController#about as HTML
+  Rendering pages/about.html.erb within layouts/application
+  Rendered pages/about.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 48ms (Views: 46.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/about" for 24.224.141.35 at 2017-05-09 13:27:04 +0000
+Cannot render console from 24.224.141.35! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PagesController#about as HTML
+  Rendering pages/about.html.erb within layouts/application
+  Rendered pages/about.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 2824ms (Views: 2822.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/about" for 24.224.141.35 at 2017-05-09 13:31:35 +0000
+Cannot render console from 24.224.141.35! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PagesController#about as HTML
+  Rendering pages/about.html.erb within layouts/application
+  Rendered pages/about.html.erb within layouts/application (3.2ms)
+Completed 200 OK in 3251ms (Views: 3234.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/about" for 24.224.141.35 at 2017-05-09 13:31:51 +0000
+Cannot render console from 24.224.141.35! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PagesController#about as HTML
+  Rendering pages/about.html.erb within layouts/application
+  Rendered pages/about.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 2316ms (Views: 2314.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/about" for 24.224.141.35 at 2017-05-09 13:32:02 +0000
+Cannot render console from 24.224.141.35! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PagesController#about as HTML
+  Rendering pages/about.html.erb within layouts/application
+  Rendered pages/about.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 2807ms (Views: 2804.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 24.224.141.35 at 2017-05-09 13:36:49 +0000
+Cannot render console from 24.224.141.35! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PagesController#home as HTML
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (0.7ms)
+Completed 200 OK in 49ms (Views: 46.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 24.224.141.35 at 2017-05-09 13:39:12 +0000
+Cannot render console from 24.224.141.35! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PagesController#home as HTML
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 63ms (Views: 60.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 24.224.141.35 at 2017-05-09 13:41:32 +0000
+Cannot render console from 24.224.141.35! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PagesController#home as HTML
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (0.9ms)
+Completed 200 OK in 61ms (Views: 58.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 24.224.141.35 at 2017-05-09 13:49:37 +0000
+Cannot render console from 24.224.141.35! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PagesController#home as HTML
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (3.0ms)
+Completed 200 OK in 674ms (Views: 657.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 24.224.141.35 at 2017-05-09 13:52:59 +0000
+Cannot render console from 24.224.141.35! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PagesController#home as HTML
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (1.1ms)
+Completed 200 OK in 68ms (Views: 65.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 24.224.141.35 at 2017-05-09 13:55:01 +0000
+Cannot render console from 24.224.141.35! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PagesController#home as HTML
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (0.8ms)
+Completed 500 Internal Server Error in 43ms (ActiveRecord: 0.0ms)
+
+
+  
+ActionView::Template::Error (Invalid CSS after "...und color:white": expected "{", was ";"):
+    4:     <title>Saasapp</title>
+    5:     <%= csrf_meta_tags %>
+    6:     <link href="//fonts.googleapis.com/css?family=Taviraj:400,700,800" rel="stylesheet">
+    7:     <%= stylesheet_link_tag    'application', media: 'all', 'data-turbolinks-track': 'reload' %>
+    8:     <%= javascript_include_tag 'application', 'data-turbolinks-track': 'reload' %>
+    9:   </head>
+   10: 
+  
+app/assets/stylesheets/application.css.scss:55
+app/views/layouts/application.html.erb:7:in `_app_views_layouts_application_html_erb__2948030992941536987_69969446531460'
+  Rendering /usr/local/rvm/gems/ruby-2.3.0@saasapp/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/template_error.html.erb within rescues/layout
+  Rendering /usr/local/rvm/gems/ruby-2.3.0@saasapp/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/_source.html.erb
+  Rendered /usr/local/rvm/gems/ruby-2.3.0@saasapp/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/_source.html.erb (7.5ms)
+  Rendering /usr/local/rvm/gems/ruby-2.3.0@saasapp/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb
+  Rendered /usr/local/rvm/gems/ruby-2.3.0@saasapp/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (4.0ms)
+  Rendering /usr/local/rvm/gems/ruby-2.3.0@saasapp/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb
+  Rendered /usr/local/rvm/gems/ruby-2.3.0@saasapp/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.4ms)
+  Rendered /usr/local/rvm/gems/ruby-2.3.0@saasapp/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/template_error.html.erb within rescues/layout (62.4ms)
+Started GET "/" for 24.224.141.35 at 2017-05-09 13:55:31 +0000
+Cannot render console from 24.224.141.35! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PagesController#home as HTML
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (0.7ms)
+Completed 200 OK in 4231ms (Views: 4228.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 24.224.141.35 at 2017-05-09 13:56:34 +0000
+Cannot render console from 24.224.141.35! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PagesController#home as HTML
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 3516ms (Views: 3514.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 24.224.141.35 at 2017-05-09 13:56:46 +0000
+Cannot render console from 24.224.141.35! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PagesController#home as HTML
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 3779ms (Views: 3777.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 24.224.141.35 at 2017-05-09 13:58:25 +0000
+Cannot render console from 24.224.141.35! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PagesController#home as HTML
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (0.9ms)
+Completed 200 OK in 3489ms (Views: 3486.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 24.224.141.35 at 2017-05-09 13:58:55 +0000
+Cannot render console from 24.224.141.35! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PagesController#home as HTML
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (0.8ms)
+Completed 200 OK in 4379ms (Views: 4373.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 24.224.141.35 at 2017-05-09 13:59:23 +0000
+Cannot render console from 24.224.141.35! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PagesController#home as HTML
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 4251ms (Views: 4248.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 24.224.141.35 at 2017-05-09 13:59:30 +0000
+Cannot render console from 24.224.141.35! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PagesController#home as HTML
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (0.7ms)
+Completed 200 OK in 73ms (Views: 68.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 24.224.141.35 at 2017-05-09 14:02:36 +0000
+Cannot render console from 24.224.141.35! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PagesController#home as HTML
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (0.6ms)
+Completed 500 Internal Server Error in 1122ms (ActiveRecord: 0.0ms)
+
+
+  
+ActionView::Template::Error (Invalid CSS after "&:hover:": expected pseudoclass or pseudoelement, was ", &:focus"):
+    4:     <title>Saasapp</title>
+    5:     <%= csrf_meta_tags %>
+    6:     <link href="//fonts.googleapis.com/css?family=Taviraj:400,700,800" rel="stylesheet">
+    7:     <%= stylesheet_link_tag    'application', media: 'all', 'data-turbolinks-track': 'reload' %>
+    8:     <%= javascript_include_tag 'application', 'data-turbolinks-track': 'reload' %>
+    9:   </head>
+   10: 
+  
+app/assets/stylesheets/application.css.scss:60
+app/views/layouts/application.html.erb:7:in `_app_views_layouts_application_html_erb__2948030992941536987_69969413450360'
+  Rendering /usr/local/rvm/gems/ruby-2.3.0@saasapp/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/template_error.html.erb within rescues/layout
+  Rendering /usr/local/rvm/gems/ruby-2.3.0@saasapp/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/_source.html.erb
+  Rendered /usr/local/rvm/gems/ruby-2.3.0@saasapp/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/_source.html.erb (10.5ms)
+  Rendering /usr/local/rvm/gems/ruby-2.3.0@saasapp/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb
+  Rendered /usr/local/rvm/gems/ruby-2.3.0@saasapp/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (3.7ms)
+  Rendering /usr/local/rvm/gems/ruby-2.3.0@saasapp/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb
+  Rendered /usr/local/rvm/gems/ruby-2.3.0@saasapp/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.4ms)
+  Rendered /usr/local/rvm/gems/ruby-2.3.0@saasapp/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/template_error.html.erb within rescues/layout (46.7ms)
+Started GET "/" for 24.224.141.35 at 2017-05-09 14:02:59 +0000
+Cannot render console from 24.224.141.35! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PagesController#home as HTML
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (0.7ms)
+Completed 200 OK in 2822ms (Views: 2815.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 24.224.141.35 at 2017-05-09 14:05:11 +0000
+Cannot render console from 24.224.141.35! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PagesController#home as HTML
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (0.8ms)
+Completed 200 OK in 218ms (Views: 215.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 24.224.141.35 at 2017-05-09 14:10:56 +0000
+Cannot render console from 24.224.141.35! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PagesController#home as HTML
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (3.3ms)
+Completed 200 OK in 4905ms (Views: 4885.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/about" for 24.224.141.35 at 2017-05-09 15:19:45 +0000
+Cannot render console from 24.224.141.35! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PagesController#about as HTML
+  Rendering pages/about.html.erb within layouts/application
+  Rendered pages/about.html.erb within layouts/application (0.9ms)
+Completed 200 OK in 216ms (Views: 212.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 24.224.141.35 at 2017-05-09 15:19:47 +0000
+Cannot render console from 24.224.141.35! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PagesController#home as HTML
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 125ms (Views: 122.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/about" for 24.224.141.35 at 2017-05-09 15:19:53 +0000
+Cannot render console from 24.224.141.35! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PagesController#about as HTML
+  Rendering pages/about.html.erb within layouts/application
+  Rendered pages/about.html.erb within layouts/application (0.7ms)
+Completed 200 OK in 115ms (Views: 113.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 24.224.141.35 at 2017-05-09 15:19:54 +0000
+Cannot render console from 24.224.141.35! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PagesController#home as HTML
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (0.7ms)
+Completed 200 OK in 214ms (Views: 212.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 24.224.141.35 at 2017-05-09 17:36:42 +0000
+Cannot render console from 24.224.141.35! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PagesController#home as HTML
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (8.8ms)
+Completed 200 OK in 1096ms (Views: 1056.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 24.224.141.35 at 2017-05-09 17:36:45 +0000
+Cannot render console from 24.224.141.35! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PagesController#home as HTML
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 322ms (Views: 316.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/about" for 24.224.141.35 at 2017-05-09 17:36:46 +0000
+Cannot render console from 24.224.141.35! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PagesController#about as HTML
+  Rendering pages/about.html.erb within layouts/application
+  Rendered pages/about.html.erb within layouts/application (0.7ms)
+Completed 200 OK in 336ms (Views: 331.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 24.224.141.35 at 2017-05-09 17:36:48 +0000
+Cannot render console from 24.224.141.35! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PagesController#home as HTML
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (3.7ms)
+Completed 200 OK in 253ms (Views: 244.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 24.224.141.35 at 2017-05-09 17:44:29 +0000
+Cannot render console from 24.224.141.35! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PagesController#home as HTML
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (3.9ms)
+Completed 200 OK in 794ms (Views: 777.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/contacts" for 24.224.141.35 at 2017-05-09 17:44:38 +0000
+Cannot render console from 24.224.141.35! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+  
+AbstractController::ActionNotFound (The action 'index' could not be found for ContactsController):
+  
+actionpack (5.0.0) lib/abstract_controller/base.rb:121:in `process'
+actionview (5.0.0) lib/action_view/rendering.rb:30:in `process'
+actionpack (5.0.0) lib/action_controller/metal.rb:190:in `dispatch'
+actionpack (5.0.0) lib/action_controller/metal.rb:262:in `dispatch'
+actionpack (5.0.0) lib/action_dispatch/routing/route_set.rb:50:in `dispatch'
+actionpack (5.0.0) lib/action_dispatch/routing/route_set.rb:32:in `serve'
+actionpack (5.0.0) lib/action_dispatch/journey/router.rb:39:in `block in serve'
+actionpack (5.0.0) lib/action_dispatch/journey/router.rb:26:in `each'
+actionpack (5.0.0) lib/action_dispatch/journey/router.rb:26:in `serve'
+actionpack (5.0.0) lib/action_dispatch/routing/route_set.rb:725:in `call'
+rack (2.0.1) lib/rack/etag.rb:25:in `call'
+rack (2.0.1) lib/rack/conditional_get.rb:25:in `call'
+rack (2.0.1) lib/rack/head.rb:12:in `call'
+rack (2.0.1) lib/rack/session/abstract/id.rb:222:in `context'
+rack (2.0.1) lib/rack/session/abstract/id.rb:216:in `call'
+actionpack (5.0.0) lib/action_dispatch/middleware/cookies.rb:613:in `call'
+activerecord (5.0.0) lib/active_record/migration.rb:552:in `call'
+actionpack (5.0.0) lib/action_dispatch/middleware/callbacks.rb:38:in `block in call'
+activesupport (5.0.0) lib/active_support/callbacks.rb:97:in `__run_callbacks__'
+activesupport (5.0.0) lib/active_support/callbacks.rb:750:in `_run_call_callbacks'
+activesupport (5.0.0) lib/active_support/callbacks.rb:90:in `run_callbacks'
+actionpack (5.0.0) lib/action_dispatch/middleware/callbacks.rb:36:in `call'
+actionpack (5.0.0) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.0.0) lib/action_dispatch/middleware/remote_ip.rb:79:in `call'
+actionpack (5.0.0) lib/action_dispatch/middleware/debug_exceptions.rb:49:in `call'
+web-console (3.5.0) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.5.0) lib/web_console/middleware.rb:20:in `block in call'
+web-console (3.5.0) lib/web_console/middleware.rb:18:in `catch'
+web-console (3.5.0) lib/web_console/middleware.rb:18:in `call'
+actionpack (5.0.0) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.0.0) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.0.0) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.0.0) lib/active_support/tagged_logging.rb:70:in `block in tagged'
+activesupport (5.0.0) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.0.0) lib/active_support/tagged_logging.rb:70:in `tagged'
+railties (5.0.0) lib/rails/rack/logger.rb:24:in `call'
+sprockets-rails (3.2.0) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.0.0) lib/action_dispatch/middleware/request_id.rb:24:in `call'
+rack (2.0.1) lib/rack/method_override.rb:22:in `call'
+rack (2.0.1) lib/rack/runtime.rb:22:in `call'
+activesupport (5.0.0) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+actionpack (5.0.0) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.0.0) lib/action_dispatch/middleware/static.rb:136:in `call'
+rack (2.0.1) lib/rack/sendfile.rb:111:in `call'
+railties (5.0.0) lib/rails/engine.rb:522:in `call'
+puma (3.4.0) lib/puma/configuration.rb:224:in `call'
+puma (3.4.0) lib/puma/server.rb:569:in `handle_request'
+puma (3.4.0) lib/puma/server.rb:406:in `process_client'
+puma (3.4.0) lib/puma/server.rb:271:in `block in run'
+puma (3.4.0) lib/puma/thread_pool.rb:114:in `block in spawn_thread'
+  Rendering /usr/local/rvm/gems/ruby-2.3.0@saasapp/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/unknown_action.html.erb within rescues/layout
+  Rendered /usr/local/rvm/gems/ruby-2.3.0@saasapp/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/unknown_action.html.erb within rescues/layout (1.9ms)
+Started GET "/contacts/new" for 24.224.141.35 at 2017-05-09 17:45:20 +0000
+Cannot render console from 24.224.141.35! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by ContactsController#new as HTML
+  Rendering contacts/new.html.erb within layouts/application
+  Rendered contacts/new.html.erb within layouts/application (0.8ms)
+Completed 200 OK in 280ms (Views: 277.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/contacts/new" for 24.224.141.35 at 2017-05-09 17:45:46 +0000
+Cannot render console from 24.224.141.35! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by ContactsController#new as HTML
+  Rendering contacts/new.html.erb within layouts/application
+  Rendered contacts/new.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 166ms (Views: 164.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/about" for 24.224.141.35 at 2017-05-09 17:45:53 +0000
+Cannot render console from 24.224.141.35! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PagesController#about as HTML
+  Rendering pages/about.html.erb within layouts/application
+  Rendered pages/about.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 180ms (Views: 178.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 24.224.141.35 at 2017-05-09 17:45:56 +0000
+Cannot render console from 24.224.141.35! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PagesController#home as HTML
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 212ms (Views: 209.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/about" for 24.224.141.35 at 2017-05-09 17:45:58 +0000
+Cannot render console from 24.224.141.35! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PagesController#about as HTML
+  Rendering pages/about.html.erb within layouts/application
+  Rendered pages/about.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 153ms (Views: 151.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/about" for 24.224.141.35 at 2017-05-09 17:52:24 +0000
+Cannot render console from 24.224.141.35! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PagesController#about as HTML
+  Rendering pages/about.html.erb within layouts/application
+  Rendered pages/about.html.erb within layouts/application (2.1ms)
+Completed 200 OK in 3816ms (Views: 3800.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/about" for 24.224.141.35 at 2017-05-09 17:52:35 +0000
+Cannot render console from 24.224.141.35! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PagesController#about as HTML
+  Rendering pages/about.html.erb within layouts/application
+  Rendered pages/about.html.erb within layouts/application (0.7ms)
+Completed 200 OK in 98ms (Views: 95.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 24.224.141.35 at 2017-05-09 17:52:37 +0000
+Cannot render console from 24.224.141.35! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PagesController#home as HTML
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 157ms (Views: 155.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/contacts/new" for 24.224.141.35 at 2017-05-09 18:04:49 +0000
+Cannot render console from 24.224.141.35! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by ContactsController#new as HTML
+  Rendering contacts/new.html.erb within layouts/application
+  Rendered contacts/new.html.erb within layouts/application (3.1ms)
+Completed 200 OK in 749ms (Views: 732.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/contacts/new" for 24.224.141.35 at 2017-05-09 18:04:59 +0000
+Cannot render console from 24.224.141.35! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by ContactsController#new as HTML
+  Rendering contacts/new.html.erb within layouts/application
+  Rendered contacts/new.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 155ms (Views: 153.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/contacts/new" for 24.224.141.35 at 2017-05-09 18:06:57 +0000
+Cannot render console from 24.224.141.35! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by ContactsController#new as HTML
+  Rendering contacts/new.html.erb within layouts/application
+  Rendered contacts/new.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 157ms (Views: 154.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/contacts/new" for 24.224.141.35 at 2017-05-09 18:07:50 +0000
+Cannot render console from 24.224.141.35! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by ContactsController#new as HTML
+  Rendering contacts/new.html.erb within layouts/application
+  Rendered contacts/new.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 208ms (Views: 205.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/contacts/new" for 24.224.141.35 at 2017-05-09 18:11:46 +0000
+Cannot render console from 24.224.141.35! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by ContactsController#new as HTML
+  Rendering contacts/new.html.erb within layouts/application
+  Rendered contacts/new.html.erb within layouts/application (90.1ms)
+Completed 200 OK in 228ms (Views: 225.6ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/contacts/new" for 24.224.141.35 at 2017-05-09 18:11:58 +0000
+Cannot render console from 24.224.141.35! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+  
+ActionController::RoutingError (No route matches [POST] "/contacts/new"):
+  
+actionpack (5.0.0) lib/action_dispatch/middleware/debug_exceptions.rb:53:in `call'
+web-console (3.5.0) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.5.0) lib/web_console/middleware.rb:20:in `block in call'
+web-console (3.5.0) lib/web_console/middleware.rb:18:in `catch'
+web-console (3.5.0) lib/web_console/middleware.rb:18:in `call'
+actionpack (5.0.0) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.0.0) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.0.0) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.0.0) lib/active_support/tagged_logging.rb:70:in `block in tagged'
+activesupport (5.0.0) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.0.0) lib/active_support/tagged_logging.rb:70:in `tagged'
+railties (5.0.0) lib/rails/rack/logger.rb:24:in `call'
+sprockets-rails (3.2.0) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.0.0) lib/action_dispatch/middleware/request_id.rb:24:in `call'
+rack (2.0.1) lib/rack/method_override.rb:22:in `call'
+rack (2.0.1) lib/rack/runtime.rb:22:in `call'
+activesupport (5.0.0) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+actionpack (5.0.0) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.0.0) lib/action_dispatch/middleware/static.rb:136:in `call'
+rack (2.0.1) lib/rack/sendfile.rb:111:in `call'
+railties (5.0.0) lib/rails/engine.rb:522:in `call'
+puma (3.4.0) lib/puma/configuration.rb:224:in `call'
+puma (3.4.0) lib/puma/server.rb:569:in `handle_request'
+puma (3.4.0) lib/puma/server.rb:406:in `process_client'
+puma (3.4.0) lib/puma/server.rb:271:in `block in run'
+puma (3.4.0) lib/puma/thread_pool.rb:114:in `block in spawn_thread'
+  Rendering /usr/local/rvm/gems/ruby-2.3.0@saasapp/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/routing_error.html.erb within rescues/layout
+  Rendering /usr/local/rvm/gems/ruby-2.3.0@saasapp/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb
+  Rendered /usr/local/rvm/gems/ruby-2.3.0@saasapp/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (2.5ms)
+  Rendered collection of /usr/local/rvm/gems/ruby-2.3.0@saasapp/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/routes/_route.html.erb [10 times] (32.5ms)
+  Rendered /usr/local/rvm/gems/ruby-2.3.0@saasapp/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/routes/_table.html.erb (10.0ms)
+  Rendering /usr/local/rvm/gems/ruby-2.3.0@saasapp/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb
+  Rendered /usr/local/rvm/gems/ruby-2.3.0@saasapp/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (4.9ms)
+  Rendered /usr/local/rvm/gems/ruby-2.3.0@saasapp/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/routing_error.html.erb within rescues/layout (123.7ms)
+Started GET "/contacts/new" for 24.224.141.35 at 2017-05-09 18:19:43 +0000
+Cannot render console from 24.224.141.35! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by ContactsController#new as HTML
+  Rendering contacts/new.html.erb within layouts/application
+  Rendered contacts/new.html.erb within layouts/application (51.4ms)
+Completed 200 OK in 777ms (Views: 759.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/contacts/new" for 24.224.141.35 at 2017-05-09 18:21:41 +0000
+Cannot render console from 24.224.141.35! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by ContactsController#new as HTML
+  Rendering contacts/new.html.erb within layouts/application
+  Rendered contacts/new.html.erb within layouts/application (9.8ms)
+Completed 200 OK in 316ms (Views: 312.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/contacts/new" for 24.224.141.35 at 2017-05-09 18:25:19 +0000
+Cannot render console from 24.224.141.35! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by ContactsController#new as HTML
+  Rendering contacts/new.html.erb within layouts/application
+  Rendered contacts/new.html.erb within layouts/application (7.7ms)
+Completed 200 OK in 122ms (Views: 118.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/contacts/new" for 24.224.141.35 at 2017-05-09 18:25:22 +0000
+Cannot render console from 24.224.141.35! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by ContactsController#new as HTML
+  Rendering contacts/new.html.erb within layouts/application
+  Rendered contacts/new.html.erb within layouts/application (5.5ms)
+Completed 200 OK in 143ms (Views: 141.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/contacts/new" for 24.224.141.35 at 2017-05-09 18:26:32 +0000
+Cannot render console from 24.224.141.35! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by ContactsController#new as HTML
+  Rendering contacts/new.html.erb within layouts/application
+  Rendered contacts/new.html.erb within layouts/application (5.1ms)
+Completed 200 OK in 216ms (Views: 214.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/contacts/new" for 24.224.141.35 at 2017-05-09 18:27:20 +0000
+Cannot render console from 24.224.141.35! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by ContactsController#new as HTML
+  Rendering contacts/new.html.erb within layouts/application
+  Rendered contacts/new.html.erb within layouts/application (5.6ms)
+Completed 200 OK in 223ms (Views: 221.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/contacts/new" for 24.224.141.35 at 2017-05-09 18:36:45 +0000
+Cannot render console from 24.224.141.35! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by ContactsController#new as HTML
+  Rendering contacts/new.html.erb within layouts/application
+  Rendered contacts/new.html.erb within layouts/application (41.9ms)
+Completed 500 Internal Server Error in 722ms (ActiveRecord: 0.0ms)
+
+
+  
+ActionView::Template::Error (undefined local variable or method `new_contact' for #<#<Class:0x00000003a21540>:0x00000003a49e00>
+Did you mean?  new_contact_url):
+    26:         <div class="collapse navbar-collapse" id="main-nav-collapse">
+    27:           <ul class="nav navbar-nav navbar-right">
+    28:             <li><%= link_to "About", about_path %></li>
+    29:             <li><%= link_to "Contact Us", new_contact %></li>
+    30:           </ul>
+    31:         </div><!-- /.navbar-collapse -->
+    32:       </div>
+  
+app/views/layouts/application.html.erb:29:in `_app_views_layouts_application_html_erb___1238015433635762449_30693440'
+  Rendering /usr/local/rvm/gems/ruby-2.3.0@saasapp/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/template_error.html.erb within rescues/layout
+  Rendering /usr/local/rvm/gems/ruby-2.3.0@saasapp/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/_source.html.erb
+  Rendered /usr/local/rvm/gems/ruby-2.3.0@saasapp/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/_source.html.erb (11.6ms)
+  Rendering /usr/local/rvm/gems/ruby-2.3.0@saasapp/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb
+  Rendered /usr/local/rvm/gems/ruby-2.3.0@saasapp/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (4.6ms)
+  Rendering /usr/local/rvm/gems/ruby-2.3.0@saasapp/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb
+  Rendered /usr/local/rvm/gems/ruby-2.3.0@saasapp/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.2ms)
+  Rendered /usr/local/rvm/gems/ruby-2.3.0@saasapp/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/template_error.html.erb within rescues/layout (66.1ms)
+Started GET "/contacts/new" for 24.224.141.35 at 2017-05-09 18:37:45 +0000
+Cannot render console from 24.224.141.35! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by ContactsController#new as HTML
+  Rendering contacts/new.html.erb within layouts/application
+  Rendered contacts/new.html.erb within layouts/application (5.9ms)
+Completed 200 OK in 114ms (Views: 112.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 24.224.141.35 at 2017-05-09 18:37:47 +0000
+Cannot render console from 24.224.141.35! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PagesController#home as HTML
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 106ms (Views: 103.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/contacts/new" for 24.224.141.35 at 2017-05-09 18:38:03 +0000
+Cannot render console from 24.224.141.35! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by ContactsController#new as HTML
+  Rendering contacts/new.html.erb within layouts/application
+  Rendered contacts/new.html.erb within layouts/application (7.7ms)
+Completed 200 OK in 129ms (Views: 126.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/about" for 24.224.141.35 at 2017-05-09 18:38:07 +0000
+Cannot render console from 24.224.141.35! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PagesController#about as HTML
+  Rendering pages/about.html.erb within layouts/application
+  Rendered pages/about.html.erb within layouts/application (1.1ms)
+Completed 200 OK in 152ms (Views: 148.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 24.224.141.35 at 2017-05-09 18:38:08 +0000
+Cannot render console from 24.224.141.35! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PagesController#home as HTML
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (0.9ms)
+Completed 200 OK in 118ms (Views: 116.0ms | ActiveRecord: 0.0ms)
+
+
+  [1m[35m (48.6ms)[0m  [1m[35mCREATE TABLE "schema_migrations" ("version" varchar NOT NULL PRIMARY KEY)[0m
+  [1m[35m (20.1ms)[0m  [1m[35mCREATE TABLE "ar_internal_metadata" ("key" varchar NOT NULL PRIMARY KEY, "value" varchar, "created_at" datetime NOT NULL, "updated_at" datetime NOT NULL)[0m
+  [1m[36mActiveRecord::SchemaMigration Load (0.4ms)[0m  [1m[34mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+Migrating to CreateContacts (20170509185503)
+  [1m[35m (0.2ms)[0m  [1m[36mbegin transaction[0m
+  [1m[35m (0.6ms)[0m  [1m[35mCREATE TABLE "contacts" ("id" INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL)[0m
+  [1m[35mSQL (0.3ms)[0m  [1m[32mINSERT INTO "schema_migrations" ("version") VALUES (?)[0m  [["version", "20170509185503"]]
+  [1m[35m (38.3ms)[0m  [1m[36mcommit transaction[0m
+  [1m[36mActiveRecord::InternalMetadata Load (0.3ms)[0m  [1m[34mSELECT  "ar_internal_metadata".* FROM "ar_internal_metadata" WHERE "ar_internal_metadata"."key" = ? LIMIT ?[0m  [["key", :environment], ["LIMIT", 1]]
+  [1m[35m (0.2ms)[0m  [1m[36mbegin transaction[0m
+  [1m[35mSQL (0.5ms)[0m  [1m[32mINSERT INTO "ar_internal_metadata" ("key", "value", "created_at", "updated_at") VALUES (?, ?, ?, ?)[0m  [["key", "environment"], ["value", "development"], ["created_at", 2017-05-09 18:57:01 UTC], ["updated_at", 2017-05-09 18:57:01 UTC]]
+  [1m[35m (69.7ms)[0m  [1m[36mcommit transaction[0m
+  [1m[36mActiveRecord::SchemaMigration Load (0.2ms)[0m  [1m[34mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+  [1m[36mActiveRecord::SchemaMigration Load (0.4ms)[0m  [1m[34mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+  [1m[36mActiveRecord::InternalMetadata Load (0.5ms)[0m  [1m[34mSELECT  "ar_internal_metadata".* FROM "ar_internal_metadata" WHERE "ar_internal_metadata"."key" = ? LIMIT ?[0m  [["key", :environment], ["LIMIT", 1]]
+  [1m[35m (0.2ms)[0m  [1m[36mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  [1m[36mcommit transaction[0m
+  [1m[36mActiveRecord::SchemaMigration Load (0.2ms)[0m  [1m[34mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+  [1m[36mActiveRecord::SchemaMigration Load (0.4ms)[0m  [1m[34mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+  [1m[36mActiveRecord::InternalMetadata Load (0.5ms)[0m  [1m[34mSELECT  "ar_internal_metadata".* FROM "ar_internal_metadata" WHERE "ar_internal_metadata"."key" = ? LIMIT ?[0m  [["key", :environment], ["LIMIT", 1]]
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  [1m[36mcommit transaction[0m
+  [1m[36mActiveRecord::SchemaMigration Load (0.2ms)[0m  [1m[34mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+  [1m[36mActiveRecord::SchemaMigration Load (0.3ms)[0m  [1m[34mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+  [1m[36mActiveRecord::InternalMetadata Load (0.5ms)[0m  [1m[34mSELECT  "ar_internal_metadata".* FROM "ar_internal_metadata" WHERE "ar_internal_metadata"."key" = ? LIMIT ?[0m  [["key", :environment], ["LIMIT", 1]]
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  [1m[36mcommit transaction[0m
+  [1m[36mActiveRecord::SchemaMigration Load (0.1ms)[0m  [1m[34mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+  [1m[36mActiveRecord::SchemaMigration Load (3.7ms)[0m  [1m[34mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+Migrating to CreateContacts (20170509190311)
+  [1m[35m (0.2ms)[0m  [1m[36mbegin transaction[0m
+  [1m[35m (0.5ms)[0m  [1m[35mCREATE TABLE "contacts" ("id" INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, "name" varchar, "email" varchar, "comments" text, "created_at" datetime NOT NULL, "updated_at" datetime NOT NULL)[0m
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[36mActiveRecord::SchemaMigration Load (0.4ms)[0m  [1m[34mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+Migrating to CreateContacts (20170509190311)
+  [1m[35m (0.2ms)[0m  [1m[36mbegin transaction[0m
+  [1m[35m (0.5ms)[0m  [1m[35mCREATE TABLE "contacts" ("id" INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, "name" varchar, "email" varchar, "comments" text, "created_at" datetime NOT NULL, "updated_at" datetime NOT NULL)[0m
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[36mActiveRecord::SchemaMigration Load (0.4ms)[0m  [1m[34mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+Migrating to CreateContacts (20170509190311)
+  [1m[35m (0.2ms)[0m  [1m[36mbegin transaction[0m
+  [1m[35m (0.5ms)[0m  [1m[35mCREATE TABLE "contacts" ("id" INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, "name" varchar, "email" varchar, "comments" text, "created_at" datetime NOT NULL, "updated_at" datetime NOT NULL)[0m
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[36mActiveRecord::SchemaMigration Load (0.4ms)[0m  [1m[34mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+Migrating to CreateContacts (20170509190311)
+  [1m[36mActiveRecord::SchemaMigration Load (0.4ms)[0m  [1m[34mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+Migrating to CreateContacts (20170509190311)
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  [1m[35m (0.5ms)[0m  [1m[35mCREATE TABLE "contacts" ("id" INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, "name" varchar, "email" varchar, "comments" text, "created_at" datetime NOT NULL, "updated_at" datetime NOT NULL)[0m
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[36mActiveRecord::SchemaMigration Load (0.4ms)[0m  [1m[34mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+  [1m[35m (0.3ms)[0m  [1m[34mSELECT "ar_internal_metadata"."value" FROM "ar_internal_metadata" WHERE "ar_internal_metadata"."key" = ?[0m  [["key", :environment]]
+  [1m[36mActiveRecord::SchemaMigration Load (0.1ms)[0m  [1m[34mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+  [1m[35m (0.1ms)[0m  [1m[34mSELECT "ar_internal_metadata"."value" FROM "ar_internal_metadata" WHERE "ar_internal_metadata"."key" = ?[0m  [["key", :environment]]
+  [1m[36mActiveRecord::SchemaMigration Load (0.1ms)[0m  [1m[34mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+  [1m[35m (0.1ms)[0m  [1m[34mSELECT "ar_internal_metadata"."value" FROM "ar_internal_metadata" WHERE "ar_internal_metadata"."key" = ?[0m  [["key", :environment]]
+DEPRECATION WARNING: Passing #original_exception is deprecated and has no effect. Exceptions will automatically capture the original exception. (called from require at /home/ubuntu/workspace/saasapp/bin/rails:9)
+DEPRECATION WARNING: Passing #original_exception is deprecated and has no effect. Exceptions will automatically capture the original exception. (called from require at /home/ubuntu/workspace/saasapp/bin/rails:9)
+  [1m[35m (36.9ms)[0m  [1m[35mCREATE TABLE "schema_migrations" ("version" varchar NOT NULL PRIMARY KEY)[0m
+  [1m[35m (17.0ms)[0m  [1m[35mCREATE TABLE "ar_internal_metadata" ("key" varchar NOT NULL PRIMARY KEY, "value" varchar, "created_at" datetime NOT NULL, "updated_at" datetime NOT NULL)[0m
+  [1m[36mActiveRecord::SchemaMigration Load (0.4ms)[0m  [1m[34mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+Migrating to CreateContacts (20170509190311)
+  [1m[35m (0.2ms)[0m  [1m[36mbegin transaction[0m
+  [1m[35m (1.5ms)[0m  [1m[35mCREATE TABLE "contacts" ("id" INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, "name" varchar, "email" varchar, "comments" text, "created_at" datetime NOT NULL, "updated_at" datetime NOT NULL)[0m
+  [1m[35mSQL (0.3ms)[0m  [1m[32mINSERT INTO "schema_migrations" ("version") VALUES (?)[0m  [["version", "20170509190311"]]
+  [1m[35m (93.6ms)[0m  [1m[36mcommit transaction[0m
+  [1m[36mActiveRecord::InternalMetadata Load (0.3ms)[0m  [1m[34mSELECT  "ar_internal_metadata".* FROM "ar_internal_metadata" WHERE "ar_internal_metadata"."key" = ? LIMIT ?[0m  [["key", :environment], ["LIMIT", 1]]
+  [1m[35m (0.2ms)[0m  [1m[36mbegin transaction[0m
+  [1m[35mSQL (13.3ms)[0m  [1m[32mINSERT INTO "ar_internal_metadata" ("key", "value", "created_at", "updated_at") VALUES (?, ?, ?, ?)[0m  [["key", "environment"], ["value", "development"], ["created_at", 2017-05-09 19:32:53 UTC], ["updated_at", 2017-05-09 19:32:53 UTC]]
+  [1m[35m (20.5ms)[0m  [1m[36mcommit transaction[0m
+  [1m[36mActiveRecord::SchemaMigration Load (0.3ms)[0m  [1m[34mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+Started GET "/contacts/new" for 24.224.141.35 at 2017-05-09 21:50:54 +0000
+Cannot render console from 24.224.141.35! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+  [1m[36mActiveRecord::SchemaMigration Load (0.5ms)[0m  [1m[34mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+  
+SyntaxError (/home/ubuntu/workspace/saasapp/app/controllers/contacts_controller.rb:18: syntax error, unexpected end-of-input, expecting keyword_end
+end    
+       ^):
+  
+app/controllers/contacts_controller.rb:18: syntax error, unexpected end-of-input, expecting keyword_end
+  Rendering /usr/local/rvm/gems/ruby-2.3.0@saasapp/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/diagnostics.html.erb within rescues/layout
+  Rendering /usr/local/rvm/gems/ruby-2.3.0@saasapp/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/_source.html.erb
+  Rendered /usr/local/rvm/gems/ruby-2.3.0@saasapp/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/_source.html.erb (27.4ms)
+  Rendering /usr/local/rvm/gems/ruby-2.3.0@saasapp/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb
+  Rendered /usr/local/rvm/gems/ruby-2.3.0@saasapp/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (3.2ms)
+  Rendering /usr/local/rvm/gems/ruby-2.3.0@saasapp/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb
+  Rendered /usr/local/rvm/gems/ruby-2.3.0@saasapp/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (35.8ms)
+  Rendered /usr/local/rvm/gems/ruby-2.3.0@saasapp/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/diagnostics.html.erb within rescues/layout (240.3ms)
+Started GET "/contacts/new" for 24.224.141.35 at 2017-05-09 21:51:35 +0000
+Cannot render console from 24.224.141.35! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by ContactsController#new as HTML
+Completed 500 Internal Server Error in 12ms (ActiveRecord: 0.0ms)
+
+
+  
+LoadError (Unable to autoload constant Contact, expected /home/ubuntu/workspace/saasapp/app/models/contact.rb to define it):
+  
+app/controllers/contacts_controller.rb:3:in `new'
+  Rendering /usr/local/rvm/gems/ruby-2.3.0@saasapp/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/diagnostics.html.erb within rescues/layout
+  Rendering /usr/local/rvm/gems/ruby-2.3.0@saasapp/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/_source.html.erb
+  Rendered /usr/local/rvm/gems/ruby-2.3.0@saasapp/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/_source.html.erb (28.4ms)
+  Rendering /usr/local/rvm/gems/ruby-2.3.0@saasapp/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb
+  Rendered /usr/local/rvm/gems/ruby-2.3.0@saasapp/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (26.3ms)
+  Rendering /usr/local/rvm/gems/ruby-2.3.0@saasapp/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb
+  Rendered /usr/local/rvm/gems/ruby-2.3.0@saasapp/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.3ms)
+  Rendered /usr/local/rvm/gems/ruby-2.3.0@saasapp/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/diagnostics.html.erb within rescues/layout (212.3ms)
+Started GET "/contacts/new" for 24.224.141.35 at 2017-05-09 21:52:38 +0000
+Cannot render console from 24.224.141.35! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by ContactsController#new as HTML
+Completed 500 Internal Server Error in 3ms (ActiveRecord: 0.0ms)
+
+
+  
+NameError (uninitialized constant ContactsController::Contacts):
+  
+app/controllers/contacts_controller.rb:3:in `new'
+  Rendering /usr/local/rvm/gems/ruby-2.3.0@saasapp/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/diagnostics.html.erb within rescues/layout
+  Rendering /usr/local/rvm/gems/ruby-2.3.0@saasapp/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/_source.html.erb
+  Rendered /usr/local/rvm/gems/ruby-2.3.0@saasapp/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/_source.html.erb (6.5ms)
+  Rendering /usr/local/rvm/gems/ruby-2.3.0@saasapp/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb
+  Rendered /usr/local/rvm/gems/ruby-2.3.0@saasapp/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (2.8ms)
+  Rendering /usr/local/rvm/gems/ruby-2.3.0@saasapp/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb
+  Rendered /usr/local/rvm/gems/ruby-2.3.0@saasapp/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.6ms)
+  Rendered /usr/local/rvm/gems/ruby-2.3.0@saasapp/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/diagnostics.html.erb within rescues/layout (81.5ms)
+Started GET "/contacts/new" for 24.224.141.35 at 2017-05-09 21:52:55 +0000
+Cannot render console from 24.224.141.35! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by ContactsController#new as HTML
+Completed 500 Internal Server Error in 3ms (ActiveRecord: 0.0ms)
+
+
+  
+LoadError (Unable to autoload constant Contact, expected /home/ubuntu/workspace/saasapp/app/models/contact.rb to define it):
+  
+app/controllers/contacts_controller.rb:3:in `new'
+  Rendering /usr/local/rvm/gems/ruby-2.3.0@saasapp/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/diagnostics.html.erb within rescues/layout
+  Rendering /usr/local/rvm/gems/ruby-2.3.0@saasapp/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/_source.html.erb
+  Rendered /usr/local/rvm/gems/ruby-2.3.0@saasapp/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/_source.html.erb (5.4ms)
+  Rendering /usr/local/rvm/gems/ruby-2.3.0@saasapp/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb
+  Rendered /usr/local/rvm/gems/ruby-2.3.0@saasapp/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (3.0ms)
+  Rendering /usr/local/rvm/gems/ruby-2.3.0@saasapp/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb
+  Rendered /usr/local/rvm/gems/ruby-2.3.0@saasapp/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.3ms)
+  Rendered /usr/local/rvm/gems/ruby-2.3.0@saasapp/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/diagnostics.html.erb within rescues/layout (66.7ms)
+Started GET "/contacts/new" for 24.224.141.35 at 2017-05-09 21:56:32 +0000
+Cannot render console from 24.224.141.35! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by ContactsController#new as HTML
+Completed 500 Internal Server Error in 2ms (ActiveRecord: 0.0ms)
+
+
+  
+LoadError (Unable to autoload constant Contact, expected /home/ubuntu/workspace/saasapp/app/models/contact.rb to define it):
+  
+app/controllers/contacts_controller.rb:3:in `new'
+  Rendering /usr/local/rvm/gems/ruby-2.3.0@saasapp/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/diagnostics.html.erb within rescues/layout
+  Rendering /usr/local/rvm/gems/ruby-2.3.0@saasapp/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/_source.html.erb
+  Rendered /usr/local/rvm/gems/ruby-2.3.0@saasapp/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/_source.html.erb (7.5ms)
+  Rendering /usr/local/rvm/gems/ruby-2.3.0@saasapp/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb
+  Rendered /usr/local/rvm/gems/ruby-2.3.0@saasapp/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (3.3ms)
+  Rendering /usr/local/rvm/gems/ruby-2.3.0@saasapp/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb
+  Rendered /usr/local/rvm/gems/ruby-2.3.0@saasapp/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.4ms)
+  Rendered /usr/local/rvm/gems/ruby-2.3.0@saasapp/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/diagnostics.html.erb within rescues/layout (101.7ms)
+Started GET "/contacts/new" for 24.224.141.35 at 2017-05-09 21:56:41 +0000
+Cannot render console from 24.224.141.35! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by ContactsController#new as HTML
+Completed 500 Internal Server Error in 3ms (ActiveRecord: 0.0ms)
+
+
+  
+LoadError (Unable to autoload constant Contact, expected /home/ubuntu/workspace/saasapp/app/models/contact.rb to define it):
+  
+app/controllers/contacts_controller.rb:3:in `new'
+  Rendering /usr/local/rvm/gems/ruby-2.3.0@saasapp/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/diagnostics.html.erb within rescues/layout
+  Rendering /usr/local/rvm/gems/ruby-2.3.0@saasapp/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/_source.html.erb
+  Rendered /usr/local/rvm/gems/ruby-2.3.0@saasapp/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/_source.html.erb (5.3ms)
+  Rendering /usr/local/rvm/gems/ruby-2.3.0@saasapp/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb
+  Rendered /usr/local/rvm/gems/ruby-2.3.0@saasapp/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (3.4ms)
+  Rendering /usr/local/rvm/gems/ruby-2.3.0@saasapp/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb
+  Rendered /usr/local/rvm/gems/ruby-2.3.0@saasapp/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.5ms)
+  Rendered /usr/local/rvm/gems/ruby-2.3.0@saasapp/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/diagnostics.html.erb within rescues/layout (47.4ms)
+Started GET "/contacts/new" for 24.224.141.35 at 2017-05-09 21:57:36 +0000
+Cannot render console from 24.224.141.35! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by ContactsController#new as HTML
+Completed 500 Internal Server Error in 2ms (ActiveRecord: 0.0ms)
+
+
+  
+LoadError (Unable to autoload constant Contact, expected /home/ubuntu/workspace/saasapp/app/models/contact.rb to define it):
+  
+app/controllers/contacts_controller.rb:3:in `new'
+  Rendering /usr/local/rvm/gems/ruby-2.3.0@saasapp/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/diagnostics.html.erb within rescues/layout
+  Rendering /usr/local/rvm/gems/ruby-2.3.0@saasapp/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/_source.html.erb
+  Rendered /usr/local/rvm/gems/ruby-2.3.0@saasapp/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/_source.html.erb (5.7ms)
+  Rendering /usr/local/rvm/gems/ruby-2.3.0@saasapp/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb
+  Rendered /usr/local/rvm/gems/ruby-2.3.0@saasapp/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (4.6ms)
+  Rendering /usr/local/rvm/gems/ruby-2.3.0@saasapp/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb
+  Rendered /usr/local/rvm/gems/ruby-2.3.0@saasapp/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.3ms)
+  Rendered /usr/local/rvm/gems/ruby-2.3.0@saasapp/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/diagnostics.html.erb within rescues/layout (70.1ms)
+Started GET "/" for 24.224.141.35 at 2017-05-09 22:05:39 +0000
+Cannot render console from 24.224.141.35! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+  [1m[36mActiveRecord::SchemaMigration Load (0.4ms)[0m  [1m[34mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+Processing by PagesController#home as HTML
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (4.5ms)
+Completed 200 OK in 1426ms (Views: 1405.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/about" for 24.224.141.35 at 2017-05-09 22:05:43 +0000
+Cannot render console from 24.224.141.35! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PagesController#about as HTML
+  Rendering pages/about.html.erb within layouts/application
+  Rendered pages/about.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 428ms (Views: 409.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/contacts/new" for 24.224.141.35 at 2017-05-09 22:05:45 +0000
+Cannot render console from 24.224.141.35! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by ContactsController#new as HTML
+Completed 500 Internal Server Error in 28ms (ActiveRecord: 0.0ms)
+
+
+  
+LoadError (Unable to autoload constant Contact, expected /home/ubuntu/workspace/saasapp/app/models/contact.rb to define it):
+  
+app/controllers/contacts_controller.rb:3:in `new'
+  Rendering /usr/local/rvm/gems/ruby-2.3.0@saasapp/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/diagnostics.html.erb within rescues/layout
+  Rendering /usr/local/rvm/gems/ruby-2.3.0@saasapp/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/_source.html.erb
+  Rendered /usr/local/rvm/gems/ruby-2.3.0@saasapp/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/_source.html.erb (8.0ms)
+  Rendering /usr/local/rvm/gems/ruby-2.3.0@saasapp/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb
+  Rendered /usr/local/rvm/gems/ruby-2.3.0@saasapp/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (2.6ms)
+  Rendering /usr/local/rvm/gems/ruby-2.3.0@saasapp/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb
+  Rendered /usr/local/rvm/gems/ruby-2.3.0@saasapp/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.2ms)
+  Rendered /usr/local/rvm/gems/ruby-2.3.0@saasapp/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/diagnostics.html.erb within rescues/layout (66.1ms)
+Started GET "/contacts/new" for 24.224.141.35 at 2017-05-09 22:06:03 +0000
+Cannot render console from 24.224.141.35! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by ContactsController#new as HTML
+Completed 500 Internal Server Error in 6ms (ActiveRecord: 0.0ms)
+
+
+  
+LoadError (Unable to autoload constant Contact, expected /home/ubuntu/workspace/saasapp/app/models/contact.rb to define it):
+  
+app/controllers/contacts_controller.rb:3:in `new'
+  Rendering /usr/local/rvm/gems/ruby-2.3.0@saasapp/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/diagnostics.html.erb within rescues/layout
+  Rendering /usr/local/rvm/gems/ruby-2.3.0@saasapp/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/_source.html.erb
+  Rendered /usr/local/rvm/gems/ruby-2.3.0@saasapp/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/_source.html.erb (12.1ms)
+  Rendering /usr/local/rvm/gems/ruby-2.3.0@saasapp/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb
+  Rendered /usr/local/rvm/gems/ruby-2.3.0@saasapp/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (2.9ms)
+  Rendering /usr/local/rvm/gems/ruby-2.3.0@saasapp/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb
+  Rendered /usr/local/rvm/gems/ruby-2.3.0@saasapp/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.4ms)
+  Rendered /usr/local/rvm/gems/ruby-2.3.0@saasapp/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/diagnostics.html.erb within rescues/layout (74.0ms)
+Started GET "/contacts/new" for 24.224.141.35 at 2017-05-09 22:33:32 +0000
+Cannot render console from 24.224.141.35! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by ContactsController#new as HTML
+  Rendering contacts/new.html.erb within layouts/application
+  Rendered contacts/new.html.erb within layouts/application (114.6ms)
+Completed 200 OK in 401ms (Views: 362.9ms | ActiveRecord: 1.7ms)
+
+
+Started POST "/contacts" for 24.224.141.35 at 2017-05-09 22:34:21 +0000
+Cannot render console from 24.224.141.35! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by ContactsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"t8G+4caJqA3pGWzCnZrL2wl7Op5Gq23jgLBh8VyEsqSJnwtJSnhX9ecpfH1y1aqpABSoz5vKaZJAI6NBgmC7Yw==", "contact"=>{"name"=>"lala", "email"=>"lala", "comments"=>"lalalala"}, "commit"=>"Submit"}
+  [1m[35m (0.2ms)[0m  [1m[36mbegin transaction[0m
+  [1m[35mSQL (0.7ms)[0m  [1m[32mINSERT INTO "contacts" ("name", "email", "comments", "created_at", "updated_at") VALUES (?, ?, ?, ?, ?)[0m  [["name", "lala"], ["email", "lala"], ["comments", "lalalala"], ["created_at", 2017-05-09 22:34:21 UTC], ["updated_at", 2017-05-09 22:34:21 UTC]]
+  [1m[35m (20.5ms)[0m  [1m[36mcommit transaction[0m
+Redirected to https://rails-workspace-drewlef.c9users.io/contacts/new
+Completed 302 Found in 46ms (ActiveRecord: 21.4ms)
+
+
+Started GET "/contacts/new" for 24.224.141.35 at 2017-05-09 22:34:21 +0000
+Cannot render console from 24.224.141.35! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by ContactsController#new as HTML
+  Rendering contacts/new.html.erb within layouts/application
+  Rendered contacts/new.html.erb within layouts/application (5.1ms)
+Completed 200 OK in 409ms (Views: 406.6ms | ActiveRecord: 0.0ms)
+
+
+  [1m[36mContact Load (3.0ms)[0m  [1m[34mSELECT "contacts".* FROM "contacts"[0m
+Started GET "/" for 24.224.141.35 at 2017-05-10 11:42:23 +0000
+Cannot render console from 24.224.141.35! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+  [1m[36mActiveRecord::SchemaMigration Load (0.4ms)[0m  [1m[34mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+Processing by PagesController#home as HTML
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (3.8ms)
+Completed 200 OK in 1805ms (Views: 1785.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 24.224.141.35 at 2017-05-10 11:42:27 +0000
+Cannot render console from 24.224.141.35! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PagesController#home as HTML
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (0.8ms)
+Completed 200 OK in 270ms (Views: 268.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/about" for 24.224.141.35 at 2017-05-10 11:42:30 +0000
+Cannot render console from 24.224.141.35! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PagesController#about as HTML
+  Rendering pages/about.html.erb within layouts/application
+  Rendered pages/about.html.erb within layouts/application (0.8ms)
+Completed 200 OK in 482ms (Views: 479.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/contacts/new" for 24.224.141.35 at 2017-05-10 11:42:33 +0000
+Cannot render console from 24.224.141.35! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by ContactsController#new as HTML
+  Rendering contacts/new.html.erb within layouts/application
+  Rendered contacts/new.html.erb within layouts/application (47.5ms)
+Completed 200 OK in 517ms (Views: 397.9ms | ActiveRecord: 97.0ms)
+
+
+  [1m[36mContact Load (2.2ms)[0m  [1m[34mSELECT "contacts".* FROM "contacts"[0m
+  [1m[36mContact Load (1.9ms)[0m  [1m[34mSELECT "contacts".* FROM "contacts"[0m
+  [1m[35m (0.5ms)[0m  [1m[36mbegin transaction[0m
+  [1m[35m (0.3ms)[0m  [1m[31mrollback transaction[0m
+Started GET "/" for 24.224.141.35 at 2017-05-12 21:44:06 +0000
+Cannot render console from 24.224.141.35! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+  [1m[36mActiveRecord::SchemaMigration Load (0.4ms)[0m  [1m[34mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+Processing by PagesController#home as HTML
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (3.7ms)
+Completed 200 OK in 929ms (Views: 910.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/contacts/new" for 24.224.141.35 at 2017-05-12 21:44:09 +0000
+Cannot render console from 24.224.141.35! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by ContactsController#new as HTML
+  Rendering contacts/new.html.erb within layouts/application
+  Rendered contacts/new.html.erb within layouts/application (37.9ms)
+Completed 200 OK in 182ms (Views: 166.7ms | ActiveRecord: 1.1ms)
+
+
+Started POST "/contacts" for 24.224.141.35 at 2017-05-12 21:44:13 +0000
+Cannot render console from 24.224.141.35! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by ContactsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"Ooz5P+dDhQV0aAKk7T24esTfo/lF4XY43WLvHV54t2UwkUKPGbi5G6LRHzHhyX7zVS0DJXrKCW+jP9oHl+1cTQ==", "contact"=>{"name"=>"", "email"=>"", "comments"=>""}, "commit"=>"Submit"}
+  [1m[35m (0.4ms)[0m  [1m[36mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+Completed 500 Internal Server Error in 12ms (ActiveRecord: 0.5ms)
+
+
+  
+NoMethodError (undefined method `commenta' for #<Contact:0x007f61a1e4b380>
+Did you mean?  comments
+               comments_was
+               comments?
+               comments=):
+  
+app/controllers/contacts_controller.rb:8:in `create'
+  Rendering /usr/local/rvm/gems/ruby-2.3.0@saasapp/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/diagnostics.html.erb within rescues/layout
+  Rendering /usr/local/rvm/gems/ruby-2.3.0@saasapp/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/_source.html.erb
+  Rendered /usr/local/rvm/gems/ruby-2.3.0@saasapp/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/_source.html.erb (6.6ms)
+  Rendering /usr/local/rvm/gems/ruby-2.3.0@saasapp/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb
+  Rendered /usr/local/rvm/gems/ruby-2.3.0@saasapp/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (2.9ms)
+  Rendering /usr/local/rvm/gems/ruby-2.3.0@saasapp/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb
+  Rendered /usr/local/rvm/gems/ruby-2.3.0@saasapp/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (2.9ms)
+  Rendered /usr/local/rvm/gems/ruby-2.3.0@saasapp/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/diagnostics.html.erb within rescues/layout (48.2ms)
+Started POST "/contacts" for 24.224.141.35 at 2017-05-12 21:45:02 +0000
+Cannot render console from 24.224.141.35! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by ContactsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"Ooz5P+dDhQV0aAKk7T24esTfo/lF4XY43WLvHV54t2UwkUKPGbi5G6LRHzHhyX7zVS0DJXrKCW+jP9oHl+1cTQ==", "contact"=>{"name"=>"", "email"=>"", "comments"=>""}, "commit"=>"Submit"}
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+Completed 500 Internal Server Error in 69ms (ActiveRecord: 1.3ms)
+
+
+  
+NoMethodError (undefined method `commenta' for #<Contact:0x00000003792428>
+Did you mean?  comments
+               comments_was
+               comments?
+               comments=):
+  
+app/controllers/contacts_controller.rb:8:in `create'
+  Rendering /usr/local/rvm/gems/ruby-2.3.0@saasapp/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/diagnostics.html.erb within rescues/layout
+  Rendering /usr/local/rvm/gems/ruby-2.3.0@saasapp/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/_source.html.erb
+  Rendered /usr/local/rvm/gems/ruby-2.3.0@saasapp/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/_source.html.erb (5.6ms)
+  Rendering /usr/local/rvm/gems/ruby-2.3.0@saasapp/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb
+  Rendered /usr/local/rvm/gems/ruby-2.3.0@saasapp/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (2.8ms)
+  Rendering /usr/local/rvm/gems/ruby-2.3.0@saasapp/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb
+  Rendered /usr/local/rvm/gems/ruby-2.3.0@saasapp/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.6ms)
+  Rendered /usr/local/rvm/gems/ruby-2.3.0@saasapp/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/diagnostics.html.erb within rescues/layout (35.2ms)
+Started POST "/contacts" for 24.224.141.35 at 2017-05-12 21:45:59 +0000
+Cannot render console from 24.224.141.35! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by ContactsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"Ooz5P+dDhQV0aAKk7T24esTfo/lF4XY43WLvHV54t2UwkUKPGbi5G6LRHzHhyX7zVS0DJXrKCW+jP9oHl+1cTQ==", "contact"=>{"name"=>"", "email"=>"", "comments"=>""}, "commit"=>"Submit"}
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+Completed 500 Internal Server Error in 158ms (ActiveRecord: 1.6ms)
+
+
+  
+NoMethodError (undefined method `commenta' for #<Contact:0x007f619853b0a0>
+Did you mean?  comments
+               comments_was
+               comments?
+               comments=):
+  
+app/controllers/contacts_controller.rb:8:in `create'
+  Rendering /usr/local/rvm/gems/ruby-2.3.0@saasapp/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/diagnostics.html.erb within rescues/layout
+  Rendering /usr/local/rvm/gems/ruby-2.3.0@saasapp/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/_source.html.erb
+  Rendered /usr/local/rvm/gems/ruby-2.3.0@saasapp/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/_source.html.erb (5.5ms)
+  Rendering /usr/local/rvm/gems/ruby-2.3.0@saasapp/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb
+  Rendered /usr/local/rvm/gems/ruby-2.3.0@saasapp/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (2.7ms)
+  Rendering /usr/local/rvm/gems/ruby-2.3.0@saasapp/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb
+  Rendered /usr/local/rvm/gems/ruby-2.3.0@saasapp/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.7ms)
+  Rendered /usr/local/rvm/gems/ruby-2.3.0@saasapp/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/diagnostics.html.erb within rescues/layout (34.9ms)
+Started GET "/" for 24.224.141.35 at 2017-05-12 21:47:00 +0000
+Cannot render console from 24.224.141.35! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PagesController#home as HTML
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 185ms (Views: 183.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/about" for 24.224.141.35 at 2017-05-12 21:47:01 +0000
+Cannot render console from 24.224.141.35! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PagesController#about as HTML
+  Rendering pages/about.html.erb within layouts/application
+  Rendered pages/about.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 74ms (Views: 72.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/contacts/new" for 24.224.141.35 at 2017-05-12 21:47:02 +0000
+Cannot render console from 24.224.141.35! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by ContactsController#new as HTML
+  Rendering contacts/new.html.erb within layouts/application
+  Rendered contacts/new.html.erb within layouts/application (3.8ms)
+Completed 200 OK in 177ms (Views: 174.8ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/contacts" for 24.224.141.35 at 2017-05-12 21:47:09 +0000
+Cannot render console from 24.224.141.35! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by ContactsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"eSiaLyTIlWG9Qb1qM841Mm8TztFTMkE1Ca1gZVMLdy1zNSGf2jOpf2v4oP8/OvO7/uFuDWwZPmJ38FV/mp6cBQ==", "contact"=>{"name"=>"drwe", "email"=>"erw", "comments"=>"weff"}, "commit"=>"Submit"}
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+Completed 500 Internal Server Error in 8ms (ActiveRecord: 0.2ms)
+
+
+  
+NoMethodError (undefined method `commenta' for #<Contact:0x007f619c34af80>
+Did you mean?  comments
+               comments_was
+               comments?
+               comments=):
+  
+app/controllers/contacts_controller.rb:8:in `create'
+  Rendering /usr/local/rvm/gems/ruby-2.3.0@saasapp/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/diagnostics.html.erb within rescues/layout
+  Rendering /usr/local/rvm/gems/ruby-2.3.0@saasapp/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/_source.html.erb
+  Rendered /usr/local/rvm/gems/ruby-2.3.0@saasapp/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/_source.html.erb (5.6ms)
+  Rendering /usr/local/rvm/gems/ruby-2.3.0@saasapp/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb
+  Rendered /usr/local/rvm/gems/ruby-2.3.0@saasapp/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (2.2ms)
+  Rendering /usr/local/rvm/gems/ruby-2.3.0@saasapp/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb
+  Rendered /usr/local/rvm/gems/ruby-2.3.0@saasapp/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.3ms)
+  Rendered /usr/local/rvm/gems/ruby-2.3.0@saasapp/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/diagnostics.html.erb within rescues/layout (86.1ms)
+Started POST "/contacts" for 24.224.141.35 at 2017-05-12 21:47:32 +0000
+Cannot render console from 24.224.141.35! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by ContactsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"eSiaLyTIlWG9Qb1qM841Mm8TztFTMkE1Ca1gZVMLdy1zNSGf2jOpf2v4oP8/OvO7/uFuDWwZPmJ38FV/mp6cBQ==", "contact"=>{"name"=>"drwe", "email"=>"erw", "comments"=>"weff"}, "commit"=>"Submit"}
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  [1m[35mSQL (0.7ms)[0m  [1m[32mINSERT INTO "contacts" ("name", "email", "comments", "created_at", "updated_at") VALUES (?, ?, ?, ?, ?)[0m  [["name", "drwe"], ["email", "erw"], ["comments", "weff"], ["created_at", 2017-05-12 21:47:32 UTC], ["updated_at", 2017-05-12 21:47:32 UTC]]
+  [1m[35m (17.0ms)[0m  [1m[36mcommit transaction[0m
+Redirected to https://rails-workspace-drewlef.c9users.io/contacts/new
+Completed 302 Found in 47ms (ActiveRecord: 19.2ms)
+
+
+Started GET "/contacts/new" for 24.224.141.35 at 2017-05-12 21:47:32 +0000
+Cannot render console from 24.224.141.35! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by ContactsController#new as HTML
+  Rendering contacts/new.html.erb within layouts/application
+  Rendered contacts/new.html.erb within layouts/application (5.0ms)
+Completed 200 OK in 108ms (Views: 105.6ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/contacts" for 24.224.141.35 at 2017-05-12 21:47:34 +0000
+Cannot render console from 24.224.141.35! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by ContactsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"UngxjfAEOrpR565bkRNB36u/xl3DegdYsqC5gkqRvUXrONi2TgF1Qopn8cKZzWswJ3jdAgtyHUlgiSEJiitSnA==", "contact"=>{"name"=>"", "email"=>"", "comments"=>""}, "commit"=>"Submit"}
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+Redirected to https://rails-workspace-drewlef.c9users.io/contacts/new
+Completed 302 Found in 5ms (ActiveRecord: 0.2ms)
+
+
+Started GET "/contacts/new" for 24.224.141.35 at 2017-05-12 21:47:34 +0000
+Cannot render console from 24.224.141.35! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by ContactsController#new as HTML
+  Rendering contacts/new.html.erb within layouts/application
+  Rendered contacts/new.html.erb within layouts/application (2.9ms)
+Completed 200 OK in 84ms (Views: 81.6ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/contacts" for 24.224.141.35 at 2017-05-12 21:47:35 +0000
+Cannot render console from 24.224.141.35! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by ContactsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"Lgncw8Ow+GrUzu2QH4i/yazie0N/EM72f2wLCE4joy+XSTX4fbW3kg9OsgkXVpUmICVgHLcY1OetRZODjplM9g==", "contact"=>{"name"=>"", "email"=>"", "comments"=>""}, "commit"=>"Submit"}
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+Redirected to https://rails-workspace-drewlef.c9users.io/contacts/new
+Completed 302 Found in 5ms (ActiveRecord: 0.2ms)
+
+
+Started GET "/contacts/new" for 24.224.141.35 at 2017-05-12 21:47:35 +0000
+Cannot render console from 24.224.141.35! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by ContactsController#new as HTML
+  Rendering contacts/new.html.erb within layouts/application
+  Rendered contacts/new.html.erb within layouts/application (4.7ms)
+Completed 200 OK in 99ms (Views: 96.3ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/contacts" for 24.224.141.35 at 2017-05-12 21:47:39 +0000
+Cannot render console from 24.224.141.35! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by ContactsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"ZLWIT5RZVkd81vijDjAKYYrWfC68z/YcKbdPVFxLn/3d9WF0KlwZv6dWpzoG7iCOBhFncXTH7A37ntffnPFwJA==", "contact"=>{"name"=>"sd", "email"=>"asd", "comments"=>"asdas"}, "commit"=>"Submit"}
+  [1m[35m (0.2ms)[0m  [1m[36mbegin transaction[0m
+  [1m[35mSQL (1.5ms)[0m  [1m[32mINSERT INTO "contacts" ("name", "email", "comments", "created_at", "updated_at") VALUES (?, ?, ?, ?, ?)[0m  [["name", "sd"], ["email", "asd"], ["comments", "asdas"], ["created_at", 2017-05-12 21:47:39 UTC], ["updated_at", 2017-05-12 21:47:39 UTC]]
+  [1m[35m (10.8ms)[0m  [1m[36mcommit transaction[0m
+Redirected to https://rails-workspace-drewlef.c9users.io/contacts/new
+Completed 302 Found in 107ms (ActiveRecord: 12.5ms)
+
+
+Started GET "/contacts/new" for 24.224.141.35 at 2017-05-12 21:47:39 +0000
+Cannot render console from 24.224.141.35! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by ContactsController#new as HTML
+  Rendering contacts/new.html.erb within layouts/application
+  Rendered contacts/new.html.erb within layouts/application (4.8ms)
+Completed 200 OK in 105ms (Views: 101.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 24.224.141.35 at 2017-05-12 21:47:57 +0000
+Cannot render console from 24.224.141.35! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PagesController#home as HTML
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 140ms (Views: 138.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/contacts/new" for 24.224.141.35 at 2017-05-12 21:48:04 +0000
+Cannot render console from 24.224.141.35! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by ContactsController#new as HTML
+  Rendering contacts/new.html.erb within layouts/application
+  Rendered contacts/new.html.erb within layouts/application (2.8ms)
+Completed 200 OK in 82ms (Views: 80.6ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/contacts" for 24.224.141.35 at 2017-05-12 21:48:06 +0000
+Cannot render console from 24.224.141.35! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by ContactsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"wdKySfOwP+EWba5d/OqGBt4BUG1yuOJYNVZsUR41G3TLzwn5DUsD/8DUs8jwHkCPT/PwsU2TnQ9LC1lL16DwXA==", "contact"=>{"name"=>"sdfs", "email"=>"", "comments"=>"sdfs"}, "commit"=>"Submit"}
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+Redirected to https://rails-workspace-drewlef.c9users.io/contacts/new
+Completed 302 Found in 4ms (ActiveRecord: 0.2ms)
+
+
+Started GET "/contacts/new" for 24.224.141.35 at 2017-05-12 21:48:06 +0000
+Cannot render console from 24.224.141.35! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by ContactsController#new as HTML
+  Rendering contacts/new.html.erb within layouts/application
+  Rendered contacts/new.html.erb within layouts/application (4.0ms)
+Completed 200 OK in 138ms (Views: 136.6ms | ActiveRecord: 0.0ms)
+
+
+  [1m[36mContact Load (2.8ms)[0m  [1m[34mSELECT "contacts".* FROM "contacts"[0m
+  [1m[36mContact Load (0.2ms)[0m  [1m[34mSELECT "contacts".* FROM "contacts"[0m
+  [1m[36mContact Load (0.5ms)[0m  [1m[34mSELECT  "contacts".* FROM "contacts" ORDER BY "contacts"."id" DESC LIMIT ?[0m  [["LIMIT", 1]]
+Started GET "/contacts/new" for 24.224.141.35 at 2017-05-12 22:18:42 +0000
+Cannot render console from 24.224.141.35! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+  [1m[36mActiveRecord::SchemaMigration Load (0.3ms)[0m  [1m[34mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+Processing by ContactsController#new as HTML
+  Rendering contacts/new.html.erb within layouts/application
+  Rendered contacts/new.html.erb within layouts/application (32.5ms)
+Completed 200 OK in 684ms (Views: 643.9ms | ActiveRecord: 0.9ms)
+
+
+Started POST "/contacts" for 24.224.141.35 at 2017-05-12 22:18:48 +0000
+Cannot render console from 24.224.141.35! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by ContactsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"MrIpe00fLZ9j3Vhi6uJEP7/LWP+S6+aESV+ZLw6QueSL8sBA8xpiZ7hdB/viPG7QMwxDoFrj/JWbdgGkzipWPQ==", "contact"=>{"name"=>"fuk", "email"=>"", "comments"=>"asd"}, "commit"=>"Submit"}
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+Redirected to https://rails-workspace-drewlef.c9users.io/contacts/new
+Completed 302 Found in 5ms (ActiveRecord: 0.2ms)
+
+
+Started GET "/contacts/new" for 24.224.141.35 at 2017-05-12 22:18:48 +0000
+Cannot render console from 24.224.141.35! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by ContactsController#new as HTML
+  Rendering contacts/new.html.erb within layouts/application
+  Rendered contacts/new.html.erb within layouts/application (3.0ms)
+Completed 200 OK in 130ms (Views: 128.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/contacts/new" for 24.224.141.35 at 2017-05-12 22:18:52 +0000
+Cannot render console from 24.224.141.35! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by ContactsController#new as HTML
+  Rendering contacts/new.html.erb within layouts/application
+  Rendered contacts/new.html.erb within layouts/application (4.1ms)
+Completed 200 OK in 103ms (Views: 101.2ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/contacts" for 24.224.141.35 at 2017-05-12 22:19:06 +0000
+Cannot render console from 24.224.141.35! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by ContactsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"itFJPH2gFHBlD6GItJcnxpiMbc3k/k5U1Q6R2JyuOkMzkaAHw6VbiL6P/hG8SQ0pFEt2kiz2VEUHJwlTXBTVmg==", "contact"=>{"name"=>"yo", "email"=>"", "comments"=>"tyoyo"}, "commit"=>"Submit"}
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+Redirected to https://rails-workspace-drewlef.c9users.io/contacts/new
+Completed 302 Found in 16ms (ActiveRecord: 1.3ms)
+
+
+Started GET "/contacts/new" for 24.224.141.35 at 2017-05-12 22:19:06 +0000
+Cannot render console from 24.224.141.35! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by ContactsController#new as HTML
+  Rendering contacts/new.html.erb within layouts/application
+  Rendered contacts/new.html.erb within layouts/application (3.6ms)
+Completed 200 OK in 109ms (Views: 107.0ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/contacts" for 24.224.141.35 at 2017-05-12 22:19:46 +0000
+Cannot render console from 24.224.141.35! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by ContactsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"CtRtCblVqdEkQMn4pknI8cK0OTsenQnMWUBmtpk1NiKzlIQyB1DmKf/AlmGul+IeTnMiZNaVE92Laf49WY/Z+w==", "contact"=>{"name"=>"s", "email"=>"", "comments"=>"s"}, "commit"=>"Submit"}
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  [1m[35m (0.2ms)[0m  [1m[31mrollback transaction[0m
+Redirected to https://rails-workspace-drewlef.c9users.io/contacts/new
+Completed 302 Found in 16ms (ActiveRecord: 1.6ms)
+
+
+Started GET "/contacts/new" for 24.224.141.35 at 2017-05-12 22:19:46 +0000
+Cannot render console from 24.224.141.35! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by ContactsController#new as HTML
+  Rendering contacts/new.html.erb within layouts/application
+  Rendered contacts/new.html.erb within layouts/application (4.9ms)
+Completed 200 OK in 103ms (Views: 100.6ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/contacts" for 24.224.141.35 at 2017-05-12 22:20:40 +0000
+Cannot render console from 24.224.141.35! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by ContactsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"/8EthknLxaKCGc7OfiiPcuVqVh5ycegJxzlakrEU/zBGgcS9986KWlmZkVd29qWdaa1NQbp58hgVEMIZca4Q6Q==", "contact"=>{"name"=>"", "email"=>"", "comments"=>""}, "commit"=>"Submit"}
+  [1m[35m (0.2ms)[0m  [1m[36mbegin transaction[0m
+  [1m[35m (0.2ms)[0m  [1m[31mrollback transaction[0m
+Redirected to https://rails-workspace-drewlef.c9users.io/contacts/new
+Completed 302 Found in 9ms (ActiveRecord: 0.4ms)
+
+
+Started GET "/contacts/new" for 24.224.141.35 at 2017-05-12 22:20:40 +0000
+Cannot render console from 24.224.141.35! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by ContactsController#new as HTML
+  Rendering contacts/new.html.erb within layouts/application
+  Rendered contacts/new.html.erb within layouts/application (4.5ms)
+Completed 200 OK in 100ms (Views: 97.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 24.224.141.35 at 2017-05-13 12:34:45 +0000
+Cannot render console from 24.224.141.35! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+  [1m[36mActiveRecord::SchemaMigration Load (0.3ms)[0m  [1m[34mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+Processing by PagesController#home as HTML
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (2.6ms)
+Completed 200 OK in 570ms (Views: 540.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 24.224.141.35 at 2017-05-13 12:34:47 +0000
+Cannot render console from 24.224.141.35! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PagesController#home as HTML
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 204ms (Views: 202.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/contacts/new" for 24.224.141.35 at 2017-05-13 12:34:51 +0000
+Cannot render console from 24.224.141.35! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by ContactsController#new as HTML
+  Rendering contacts/new.html.erb within layouts/application
+  Rendered contacts/new.html.erb within layouts/application (47.3ms)
+Completed 200 OK in 211ms (Views: 183.5ms | ActiveRecord: 1.5ms)
+
+
+Started GET "/" for 24.224.141.35 at 2017-05-13 12:35:25 +0000
+Cannot render console from 24.224.141.35! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PagesController#home as HTML
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 134ms (Views: 131.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/contacts/new" for 24.224.141.35 at 2017-05-13 12:35:26 +0000
+Cannot render console from 24.224.141.35! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by ContactsController#new as HTML
+  Rendering contacts/new.html.erb within layouts/application
+  Rendered contacts/new.html.erb within layouts/application (3.2ms)
+Completed 200 OK in 84ms (Views: 82.4ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/contacts" for 24.224.141.35 at 2017-05-13 12:35:36 +0000
+Cannot render console from 24.224.141.35! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by ContactsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"o5t38cKtitWBbSuw2hJfgGQh7PcGVRcQUs+go9H5x06phsxBPFa2y1fUNiXW5pkJ9dNMKzl+aEcskpW5GGwsZg==", "contact"=>{"name"=>"sdfas", "email"=>"sdgsdfgs", "comments"=>"sdfgsdfgs"}, "commit"=>"Submit"}
+  [1m[35m (0.2ms)[0m  [1m[36mbegin transaction[0m
+  [1m[35mSQL (1.6ms)[0m  [1m[32mINSERT INTO "contacts" ("name", "email", "comments", "created_at", "updated_at") VALUES (?, ?, ?, ?, ?)[0m  [["name", "sdfas"], ["email", "sdgsdfgs"], ["comments", "sdfgsdfgs"], ["created_at", 2017-05-13 12:35:36 UTC], ["updated_at", 2017-05-13 12:35:36 UTC]]
+  [1m[35m (13.5ms)[0m  [1m[36mcommit transaction[0m
+Redirected to https://rails-workspace-drewlef.c9users.io/contacts/new
+Completed 302 Found in 93ms (ActiveRecord: 15.2ms)
+
+
+Started GET "/contacts/new" for 24.224.141.35 at 2017-05-13 12:35:36 +0000
+Cannot render console from 24.224.141.35! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by ContactsController#new as HTML
+  Rendering contacts/new.html.erb within layouts/application
+  Rendered contacts/new.html.erb within layouts/application (3.1ms)
+Completed 200 OK in 68ms (Views: 66.0ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/contacts" for 24.224.141.35 at 2017-05-13 12:36:11 +0000
+Cannot render console from 24.224.141.35! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by ContactsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"du1HCGG1Bhn9+59iblkPel5LOqKyGdSS5Io/4vagDRLPra4z37BJ4SZ7wPtmhyWV0owh/XoRzoM2o6dpNhriyw==", "contact"=>{"name"=>"sdfa", "email"=>"sdfasf", "comments"=>""}, "commit"=>"Submit"}
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+Redirected to https://rails-workspace-drewlef.c9users.io/contacts/new
+Completed 302 Found in 16ms (ActiveRecord: 1.5ms)
+
+
+Started GET "/contacts/new" for 24.224.141.35 at 2017-05-13 12:36:11 +0000
+Cannot render console from 24.224.141.35! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by ContactsController#new as HTML
+  Rendering contacts/new.html.erb within layouts/application
+  Rendered contacts/new.html.erb within layouts/application (3.1ms)
+Completed 200 OK in 74ms (Views: 72.6ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/contacts" for 24.224.141.35 at 2017-05-13 12:36:17 +0000
+Cannot render console from 24.224.141.35! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by ContactsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"HhjShM5G6IhxynZAvIy7ZYuV1PgyC8aLEuWl5UlTzMmnWDu/cEOncKpKKdm0UpGKB1LPp/oD3JrAzD1uiekjEA==", "contact"=>{"name"=>"", "email"=>"ertweer", "comments"=>""}, "commit"=>"Submit"}
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+Redirected to https://rails-workspace-drewlef.c9users.io/contacts/new
+Completed 302 Found in 4ms (ActiveRecord: 0.2ms)
+
+
+Started GET "/contacts/new" for 24.224.141.35 at 2017-05-13 12:36:17 +0000
+Cannot render console from 24.224.141.35! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by ContactsController#new as HTML
+  Rendering contacts/new.html.erb within layouts/application
+  Rendered contacts/new.html.erb within layouts/application (3.1ms)
+Completed 200 OK in 81ms (Views: 79.3ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/contacts" for 24.224.141.35 at 2017-05-13 12:39:24 +0000
+Cannot render console from 24.224.141.35! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by ContactsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"Cl5SsXNFesXFN2By8pSl6rJsoHWP87hSZxS+u18JQr6zHruKzUA1PR63P+v6So8FPqu7Kkf7okO1PSYwn7OtZw==", "contact"=>{"name"=>"", "email"=>"", "comments"=>""}, "commit"=>"Submit"}
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+Redirected to https://rails-workspace-drewlef.c9users.io/contacts/new
+Completed 302 Found in 15ms (ActiveRecord: 1.3ms)
+
+
+Started GET "/contacts/new" for 24.224.141.35 at 2017-05-13 12:39:25 +0000
+Cannot render console from 24.224.141.35! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by ContactsController#new as HTML
+  Rendering contacts/new.html.erb within layouts/application
+  Rendered contacts/new.html.erb within layouts/application (3.8ms)
+Completed 200 OK in 78ms (Views: 75.3ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/contacts" for 24.224.141.35 at 2017-05-13 12:39:33 +0000
+Cannot render console from 24.224.141.35! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by ContactsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"PFBMqtwg8if925rNuCwoC7bFXIevJS/dvFRUxYd2NouFEKWRYiW93yZbxVSw8gLkOgJH2GctNcxufcxOR8zZUg==", "contact"=>{"name"=>"", "email"=>"", "comments"=>""}, "commit"=>"Submit"}
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+Redirected to https://rails-workspace-drewlef.c9users.io/contacts/new
+Completed 302 Found in 5ms (ActiveRecord: 0.2ms)
+
+
+Started GET "/contacts/new" for 24.224.141.35 at 2017-05-13 12:39:33 +0000
+Cannot render console from 24.224.141.35! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by ContactsController#new as HTML
+  Rendering contacts/new.html.erb within layouts/application
+  Rendered contacts/new.html.erb within layouts/application (3.3ms)
+Completed 200 OK in 68ms (Views: 66.4ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/contacts" for 24.224.141.35 at 2017-05-13 12:39:57 +0000
+Cannot render console from 24.224.141.35! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by ContactsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"eKlaiGovRMDVwQ/S2zpqRflUtblXsJKeinXk79R7MbrB6bOz1CoLOA5BUEvT5ECqdZOu5p+4iI9YXHxkFMHeYw==", "contact"=>{"name"=>"", "email"=>"", "comments"=>""}, "commit"=>"Submit"}
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+Redirected to https://rails-workspace-drewlef.c9users.io/contacts/new
+Completed 302 Found in 7ms (ActiveRecord: 0.2ms)
+
+
+Started GET "/contacts/new" for 24.224.141.35 at 2017-05-13 12:39:57 +0000
+Cannot render console from 24.224.141.35! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by ContactsController#new as HTML
+  Rendering contacts/new.html.erb within layouts/application
+  Rendered contacts/new.html.erb within layouts/application (3.3ms)
+Completed 200 OK in 84ms (Views: 82.4ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/contacts" for 24.224.141.35 at 2017-05-13 12:42:17 +0000
+Cannot render console from 24.224.141.35! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by ContactsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"yRqC56V6Nq/HjAl3SnePtFq6l8IuqAx2fPvOtqgYGwBwWmvcG395VxwMVu5CqaVb1n2MneagFmeu0lY9aKL02Q==", "contact"=>{"name"=>"", "email"=>"", "comments"=>""}, "commit"=>"Submit"}
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+Redirected to https://rails-workspace-drewlef.c9users.io/contacts/new
+Completed 302 Found in 5ms (ActiveRecord: 0.2ms)
+
+
+Started GET "/contacts/new" for 24.224.141.35 at 2017-05-13 12:42:17 +0000
+Cannot render console from 24.224.141.35! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by ContactsController#new as HTML
+  Rendering contacts/new.html.erb within layouts/application
+  Rendered contacts/new.html.erb within layouts/application (4.6ms)
+Completed 200 OK in 75ms (Views: 72.6ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/contacts" for 24.224.141.35 at 2017-05-13 12:54:21 +0000
+Cannot render console from 24.224.141.35! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+  [1m[36mActiveRecord::SchemaMigration Load (0.3ms)[0m  [1m[34mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+Processing by ContactsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"K7cYBdpH2NHGmBpehU8EJUuVto3elj9uCYEZIKTY6DeS9/E+ZEKXKR0YRceNkS7Kx1Kt0haeJX/bqIGrZGIH7g==", "contact"=>{"name"=>"", "email"=>"", "comments"=>""}, "commit"=>"Submit"}
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+Redirected to https://rails-workspace-drewlef.c9users.io/contacts/new
+Completed 302 Found in 30ms (ActiveRecord: 1.1ms)
+
+
+Started GET "/contacts/new" for 24.224.141.35 at 2017-05-13 12:54:21 +0000
+Cannot render console from 24.224.141.35! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by ContactsController#new as HTML
+  Rendering contacts/new.html.erb within layouts/application
+  Rendered contacts/new.html.erb within layouts/application (14.9ms)
+Completed 200 OK in 336ms (Views: 334.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/contacts/new" for 24.224.141.35 at 2017-05-13 12:54:26 +0000
+Cannot render console from 24.224.141.35! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by ContactsController#new as HTML
+  Rendering contacts/new.html.erb within layouts/application
+  Rendered contacts/new.html.erb within layouts/application (3.0ms)
+Completed 200 OK in 93ms (Views: 90.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/contacts/new" for 24.224.141.35 at 2017-05-13 13:00:44 +0000
+Cannot render console from 24.224.141.35! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by ContactsController#new as HTML
+  Rendering contacts/new.html.erb within layouts/application
+  Rendered contacts/new.html.erb within layouts/application (6.2ms)
+Completed 200 OK in 182ms (Views: 179.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/contacts/new" for 24.224.141.35 at 2017-05-13 13:00:49 +0000
+Cannot render console from 24.224.141.35! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by ContactsController#new as HTML
+  Rendering contacts/new.html.erb within layouts/application
+  Rendered contacts/new.html.erb within layouts/application (4.1ms)
+Completed 200 OK in 100ms (Views: 98.3ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/contacts" for 24.224.141.35 at 2017-05-13 13:20:19 +0000
+Cannot render console from 24.224.141.35! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by ContactsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"GgikdDW5u8g1ekR7JnmIpQJBGUeE/RIL4+gMa6Aw7QajSE1Pi7z0MO76G+Iup6JKjoYCGEz1CBoxwZTgYIoC3w==", "contact"=>{"name"=>"", "email"=>"", "comments"=>""}, "commit"=>"Submit"}
+  [1m[35m (0.2ms)[0m  [1m[36mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+Redirected to https://rails-workspace-drewlef.c9users.io/contacts/new
+Completed 302 Found in 7ms (ActiveRecord: 0.3ms)
+
+
+Started GET "/contacts/new" for 24.224.141.35 at 2017-05-13 13:20:19 +0000
+Cannot render console from 24.224.141.35! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by ContactsController#new as HTML
+  Rendering contacts/new.html.erb within layouts/application
+  Rendered contacts/new.html.erb within layouts/application (3.3ms)
+Completed 200 OK in 84ms (Views: 82.3ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/contacts" for 24.224.141.35 at 2017-05-13 13:24:45 +0000
+Cannot render console from 24.224.141.35! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by ContactsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"HsjIXCYliVUi9sjUvipyiXOMWnEpNQPT1dlh/0DOEMCniCFnmCDGrfl2l0229Fhm/0tBLuE9GcIH8Pl0gHT/GQ==", "contact"=>{"name"=>"fghf", "email"=>"dtyjgj", "comments"=>"nghnhnngh\r\n"}, "commit"=>"Submit"}
+  [1m[35m (0.2ms)[0m  [1m[36mbegin transaction[0m
+  [1m[35mSQL (2.2ms)[0m  [1m[32mINSERT INTO "contacts" ("name", "email", "comments", "created_at", "updated_at") VALUES (?, ?, ?, ?, ?)[0m  [["name", "fghf"], ["email", "dtyjgj"], ["comments", "nghnhnngh\r\n"], ["created_at", 2017-05-13 13:24:45 UTC], ["updated_at", 2017-05-13 13:24:45 UTC]]
+  [1m[35m (13.4ms)[0m  [1m[36mcommit transaction[0m
+Redirected to https://rails-workspace-drewlef.c9users.io/contacts/new
+Completed 302 Found in 29ms (ActiveRecord: 15.8ms)
+
+
+Started GET "/contacts/new" for 24.224.141.35 at 2017-05-13 13:24:45 +0000
+Cannot render console from 24.224.141.35! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by ContactsController#new as HTML
+  Rendering contacts/new.html.erb within layouts/application
+  Rendered contacts/new.html.erb within layouts/application (3.6ms)
+Completed 200 OK in 77ms (Views: 75.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 24.224.141.35 at 2017-05-13 13:49:01 +0000
+Cannot render console from 24.224.141.35! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PagesController#home as HTML
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 109ms (Views: 104.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/about" for 24.224.141.35 at 2017-05-13 13:49:03 +0000
+Cannot render console from 24.224.141.35! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PagesController#about as HTML
+  Rendering pages/about.html.erb within layouts/application
+  Rendered pages/about.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 87ms (Views: 80.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/contacts/new" for 24.224.141.35 at 2017-05-13 13:49:04 +0000
+Cannot render console from 24.224.141.35! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by ContactsController#new as HTML
+  Rendering contacts/new.html.erb within layouts/application
+  Rendered contacts/new.html.erb within layouts/application (3.0ms)
+Completed 200 OK in 68ms (Views: 66.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/about" for 24.224.141.35 at 2017-05-13 13:49:05 +0000
+Cannot render console from 24.224.141.35! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PagesController#about as HTML
+  Rendering pages/about.html.erb within layouts/application
+  Rendered pages/about.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 67ms (Views: 65.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/contacts/new" for 24.224.141.35 at 2017-05-13 13:49:05 +0000
+Cannot render console from 24.224.141.35! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by ContactsController#new as HTML
+  Rendering contacts/new.html.erb within layouts/application
+  Rendered contacts/new.html.erb within layouts/application (2.9ms)
+Completed 200 OK in 69ms (Views: 67.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 24.224.141.35 at 2017-05-13 13:49:06 +0000
+Cannot render console from 24.224.141.35! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PagesController#home as HTML
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 67ms (Views: 66.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/contacts/new" for 24.224.141.35 at 2017-05-13 13:49:10 +0000
+Cannot render console from 24.224.141.35! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by ContactsController#new as HTML
+  Rendering contacts/new.html.erb within layouts/application
+  Rendered contacts/new.html.erb within layouts/application (2.6ms)
+Completed 200 OK in 63ms (Views: 61.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 24.224.141.35 at 2017-05-13 13:49:15 +0000
+Cannot render console from 24.224.141.35! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PagesController#home as HTML
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 78ms (Views: 64.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/contacts/new" for 24.224.141.35 at 2017-05-13 13:49:18 +0000
+Cannot render console from 24.224.141.35! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by ContactsController#new as HTML
+  Rendering contacts/new.html.erb within layouts/application
+  Rendered contacts/new.html.erb within layouts/application (2.8ms)
+Completed 200 OK in 149ms (Views: 147.9ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/contacts" for 24.224.141.35 at 2017-05-13 13:49:24 +0000
+Cannot render console from 24.224.141.35! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by ContactsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"MkIQouAbOs355LIvpxe4ficv4Bl6w9/pZ5hHcSAjvaA4X6sSHuAG0y9dr7qr4373tt1AxUXooL4ZxXJr6bZWiA==", "contact"=>{"name"=>"", "email"=>"", "comments"=>""}, "commit"=>"Submit"}
+  [1m[35m (8.3ms)[0m  [1m[36mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+Redirected to https://rails-workspace-drewlef.c9users.io/contacts/new
+Completed 302 Found in 15ms (ActiveRecord: 8.4ms)
+
+
+Started GET "/contacts/new" for 24.224.141.35 at 2017-05-13 13:49:24 +0000
+Cannot render console from 24.224.141.35! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by ContactsController#new as HTML
+  Rendering contacts/new.html.erb within layouts/application
+  Rendered contacts/new.html.erb within layouts/application (2.7ms)
+Completed 200 OK in 72ms (Views: 71.0ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/contacts" for 24.224.141.35 at 2017-05-13 13:49:30 +0000
+Cannot render console from 24.224.141.35! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by ContactsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"hjLog/VpQJSyntLDvBPjYl6n28+++ZFOtCzj0hFz3zE/cgG4S2wPbGkejVq0zcmN0mDAkHbxi19mBXtZ0ckw6A==", "contact"=>{"name"=>"ghj", "email"=>"hjgh", "comments"=>"ghjg"}, "commit"=>"Submit"}
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  [1m[35mSQL (2.7ms)[0m  [1m[32mINSERT INTO "contacts" ("name", "email", "comments", "created_at", "updated_at") VALUES (?, ?, ?, ?, ?)[0m  [["name", "ghj"], ["email", "hjgh"], ["comments", "ghjg"], ["created_at", 2017-05-13 13:49:30 UTC], ["updated_at", 2017-05-13 13:49:30 UTC]]
+  [1m[35m (14.7ms)[0m  [1m[36mcommit transaction[0m
+Redirected to https://rails-workspace-drewlef.c9users.io/contacts/new
+Completed 302 Found in 23ms (ActiveRecord: 17.6ms)
+
+
+Started GET "/contacts/new" for 24.224.141.35 at 2017-05-13 13:49:30 +0000
+Cannot render console from 24.224.141.35! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by ContactsController#new as HTML
+  Rendering contacts/new.html.erb within layouts/application
+  Rendered contacts/new.html.erb within layouts/application (2.7ms)
+Completed 200 OK in 62ms (Views: 61.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 24.224.141.35 at 2017-05-13 14:17:54 +0000
+Cannot render console from 24.224.141.35! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PagesController#home as HTML
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (0.8ms)
+Completed 200 OK in 77ms (Views: 75.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 24.224.141.35 at 2017-05-13 14:17:55 +0000
+Cannot render console from 24.224.141.35! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PagesController#home as HTML
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 82ms (Views: 80.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/contacts/new" for 24.224.141.35 at 2017-05-13 14:18:01 +0000
+Cannot render console from 24.224.141.35! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by ContactsController#new as HTML
+  Rendering contacts/new.html.erb within layouts/application
+  Rendered contacts/new.html.erb within layouts/application (3.5ms)
+Completed 200 OK in 78ms (Views: 76.7ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/contacts" for 24.224.141.35 at 2017-05-13 14:18:02 +0000
+Cannot render console from 24.224.141.35! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by ContactsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"09tgx0t8WcGg3JPIIw4en8THp1zQAhe7P3N9MjOusRvZxtt3tYdl33Zljl0v+tgWVTUHgO8paOxBLkgo+jtaMw==", "contact"=>{"name"=>"", "email"=>"", "comments"=>""}, "commit"=>"Submit"}
+  [1m[35m (0.2ms)[0m  [1m[36mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+Redirected to https://rails-workspace-drewlef.c9users.io/contacts/new
+Completed 302 Found in 5ms (ActiveRecord: 0.2ms)
+
+
+Started GET "/contacts/new" for 24.224.141.35 at 2017-05-13 14:18:02 +0000
+Cannot render console from 24.224.141.35! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by ContactsController#new as HTML
+  Rendering contacts/new.html.erb within layouts/application
+  Rendered contacts/new.html.erb within layouts/application (2.7ms)
+Completed 200 OK in 128ms (Views: 126.8ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/contacts" for 24.224.141.35 at 2017-05-13 14:18:07 +0000
+Cannot render console from 24.224.141.35! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by ContactsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"zjwo2vx2R65gJQeYZp4hsJWKh0X98Xx/h8rwsh/90EV3fMHhQnMIVrulWAFuQAtfGU2cGjX5Zm5V42g530c/nA==", "contact"=>{"name"=>"jh", "email"=>"ghj", "comments"=>"ghj"}, "commit"=>"Submit"}
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  [1m[35mSQL (1.4ms)[0m  [1m[32mINSERT INTO "contacts" ("name", "email", "comments", "created_at", "updated_at") VALUES (?, ?, ?, ?, ?)[0m  [["name", "jh"], ["email", "ghj"], ["comments", "ghj"], ["created_at", 2017-05-13 14:18:07 UTC], ["updated_at", 2017-05-13 14:18:07 UTC]]
+  [1m[35m (12.0ms)[0m  [1m[36mcommit transaction[0m
+Redirected to https://rails-workspace-drewlef.c9users.io/contacts/new
+Completed 302 Found in 18ms (ActiveRecord: 13.6ms)
+
+
+Started GET "/contacts/new" for 24.224.141.35 at 2017-05-13 14:18:07 +0000
+Cannot render console from 24.224.141.35! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by ContactsController#new as HTML
+  Rendering contacts/new.html.erb within layouts/application
+  Rendered contacts/new.html.erb within layouts/application (2.7ms)
+Completed 200 OK in 66ms (Views: 64.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 24.224.141.35 at 2017-05-14 17:08:08 +0000
+Cannot render console from 24.224.141.35! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+  [1m[36mActiveRecord::SchemaMigration Load (0.3ms)[0m  [1m[34mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+Processing by PagesController#home as HTML
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (3.5ms)
+Completed 200 OK in 605ms (Views: 576.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 24.224.141.35 at 2017-05-14 17:09:05 +0000
+Cannot render console from 24.224.141.35! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+  [1m[36mActiveRecord::SchemaMigration Load (0.3ms)[0m  [1m[34mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+Processing by PagesController#home as HTML
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (1.6ms)
+Completed 200 OK in 377ms (Views: 352.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/contacts/new" for 24.224.141.35 at 2017-05-14 17:09:07 +0000
+Cannot render console from 24.224.141.35! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by ContactsController#new as HTML
+  Rendering contacts/new.html.erb within layouts/application
+  Rendered contacts/new.html.erb within layouts/application (26.7ms)
+Completed 200 OK in 123ms (Views: 108.2ms | ActiveRecord: 1.2ms)
+
+
+Started GET "/contacts/new" for 24.224.141.35 at 2017-05-14 17:09:16 +0000
+Cannot render console from 24.224.141.35! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by ContactsController#new as HTML
+  Rendering contacts/new.html.erb within layouts/application
+  Rendered contacts/new.html.erb within layouts/application (5.1ms)
+Completed 200 OK in 173ms (Views: 148.2ms | ActiveRecord: 1.5ms)
+
+
+Started GET "/contacts-us" for 24.224.141.35 at 2017-05-14 17:09:26 +0000
+Cannot render console from 24.224.141.35! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+  
+ActionController::RoutingError (No route matches [GET] "/contacts-us"):
+  
+actionpack (5.0.0) lib/action_dispatch/middleware/debug_exceptions.rb:53:in `call'
+web-console (3.5.0) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.5.0) lib/web_console/middleware.rb:20:in `block in call'
+web-console (3.5.0) lib/web_console/middleware.rb:18:in `catch'
+web-console (3.5.0) lib/web_console/middleware.rb:18:in `call'
+actionpack (5.0.0) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.0.0) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.0.0) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.0.0) lib/active_support/tagged_logging.rb:70:in `block in tagged'
+activesupport (5.0.0) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.0.0) lib/active_support/tagged_logging.rb:70:in `tagged'
+railties (5.0.0) lib/rails/rack/logger.rb:24:in `call'
+sprockets-rails (3.2.0) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.0.0) lib/action_dispatch/middleware/request_id.rb:24:in `call'
+rack (2.0.1) lib/rack/method_override.rb:22:in `call'
+rack (2.0.1) lib/rack/runtime.rb:22:in `call'
+activesupport (5.0.0) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+actionpack (5.0.0) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.0.0) lib/action_dispatch/middleware/static.rb:136:in `call'
+rack (2.0.1) lib/rack/sendfile.rb:111:in `call'
+railties (5.0.0) lib/rails/engine.rb:522:in `call'
+puma (3.4.0) lib/puma/configuration.rb:224:in `call'
+puma (3.4.0) lib/puma/server.rb:569:in `handle_request'
+puma (3.4.0) lib/puma/server.rb:406:in `process_client'
+puma (3.4.0) lib/puma/server.rb:271:in `block in run'
+puma (3.4.0) lib/puma/thread_pool.rb:114:in `block in spawn_thread'
+  Rendering /usr/local/rvm/gems/ruby-2.3.0@saasapp/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/routing_error.html.erb within rescues/layout
+  Rendering /usr/local/rvm/gems/ruby-2.3.0@saasapp/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb
+  Rendered /usr/local/rvm/gems/ruby-2.3.0@saasapp/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (1.7ms)
+  Rendered collection of /usr/local/rvm/gems/ruby-2.3.0@saasapp/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/routes/_route.html.erb [11 times] (6.3ms)
+  Rendered /usr/local/rvm/gems/ruby-2.3.0@saasapp/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/routes/_table.html.erb (3.5ms)
+  Rendering /usr/local/rvm/gems/ruby-2.3.0@saasapp/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb
+  Rendered /usr/local/rvm/gems/ruby-2.3.0@saasapp/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.7ms)
+  Rendered /usr/local/rvm/gems/ruby-2.3.0@saasapp/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/routing_error.html.erb within rescues/layout (102.8ms)
+Started GET "/contact-us" for 24.224.141.35 at 2017-05-14 17:09:29 +0000
+Cannot render console from 24.224.141.35! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by ContactsController#new as HTML
+  Rendering contacts/new.html.erb within layouts/application
+  Rendered contacts/new.html.erb within layouts/application (2.9ms)
+Completed 200 OK in 67ms (Views: 65.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 24.224.141.35 at 2017-05-15 18:30:29 +0000
+Cannot render console from 24.224.141.35! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+  [1m[36mActiveRecord::SchemaMigration Load (0.4ms)[0m  [1m[34mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+Processing by PagesController#home as HTML
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (2.7ms)
+Completed 200 OK in 631ms (Views: 617.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/contact-us" for 24.224.141.35 at 2017-05-15 18:30:35 +0000
+Cannot render console from 24.224.141.35! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by ContactsController#new as HTML
+  Rendering contacts/new.html.erb within layouts/application
+  Rendered contacts/new.html.erb within layouts/application (43.9ms)
+Completed 200 OK in 263ms (Views: 240.3ms | ActiveRecord: 1.8ms)
+
+
+Started GET "/contact-us" for 24.224.141.35 at 2017-05-15 18:30:53 +0000
+Cannot render console from 24.224.141.35! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by ContactsController#new as HTML
+  Rendering contacts/new.html.erb within layouts/application
+  Rendered contacts/new.html.erb within layouts/application (5.9ms)
+Completed 200 OK in 127ms (Views: 124.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/contact-us" for 24.224.141.35 at 2017-05-15 18:31:08 +0000
+Cannot render console from 24.224.141.35! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by ContactsController#new as HTML
+  Rendering contacts/new.html.erb within layouts/application
+  Rendered contacts/new.html.erb within layouts/application (5.2ms)
+Completed 200 OK in 276ms (Views: 273.4ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/contacts" for 24.224.141.35 at 2017-05-15 18:47:59 +0000
+Cannot render console from 24.224.141.35! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by ContactsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"wv6RisLPWTFg6OCMU2PglBb4gEAp202ankD+knT5XIx7vnixfMoWybtovxVbvcp7mj+bH+HTV4tMaWYZtEOzVQ==", "contact"=>{"name"=>"Gina", "email"=>"Macarena", "comments"=>"wow"}, "commit"=>"Submit"}
+  [1m[35m (1.7ms)[0m  [1m[36mbegin transaction[0m
+  [1m[35mSQL (2.0ms)[0m  [1m[32mINSERT INTO "contacts" ("name", "email", "comments", "created_at", "updated_at") VALUES (?, ?, ?, ?, ?)[0m  [["name", "Gina"], ["email", "Macarena"], ["comments", "wow"], ["created_at", 2017-05-15 18:47:59 UTC], ["updated_at", 2017-05-15 18:47:59 UTC]]
+  [1m[35m (11.0ms)[0m  [1m[36mcommit transaction[0m
+  Rendering contact_mailer/contact_email.html.erb
+  Rendered contact_mailer/contact_email.html.erb (0.9ms)
+ContactMailer#contact_email: processed outbound mail in 162.0ms
+Sent mail to drewlefrank@gmail.com (21.3ms)
+Date: Mon, 15 May 2017 18:47:59 +0000
+From: Macarena
+To: drewlefrank@gmail.com
+Message-ID: <5919f7dfc05d0_157c233a73c45085@drewlef-rails-workspace-4819004.mail>
+Subject: Contact Form Message
+Mime-Version: 1.0
+Content-Type: text/html;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<DOCTYPE html>
+<html>
+  <head>
+  </head>    
+  <body>
+    <p>You have received a message  from the site's contact form, from
+    Gina, Macarena. </p>
+    <p>wow</p>
+  </body>
+    </html>
+Redirected to https://rails-workspace-drewlef.c9users.io/contact-us
+Completed 302 Found in 782ms (ActiveRecord: 14.6ms)
+
+
+Started GET "/contact-us" for 24.224.141.35 at 2017-05-15 18:47:59 +0000
+Cannot render console from 24.224.141.35! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by ContactsController#new as HTML
+  Rendering contacts/new.html.erb within layouts/application
+  Rendered contacts/new.html.erb within layouts/application (3.3ms)
+Completed 200 OK in 101ms (Views: 98.8ms | ActiveRecord: 0.0ms)
+
+
